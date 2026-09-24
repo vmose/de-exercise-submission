@@ -1,0 +1,1046 @@
+currency,rate_date,rate_type,units_per_usd,source,published_at
+ETB,2025-12-01,official,155.22,National Bank of Ethiopia,2025-12-01T13:00:00Z
+KES,2025-12-01,official,129.63,Central Bank of Kenya,2025-12-01T13:00:00Z
+RWF,2025-12-01,official,1449.99,National Bank of Rwanda,2025-12-01T14:00:00Z
+SSP,2025-12-01,official,4596.9,Bank of South Sudan,2025-12-01T14:00:00Z
+SSP,2025-12-01,parallel,6460.5,Market survey,2025-12-01T16:00:00Z
+XAF,2025-12-01,official,564.3,BEAC,2025-12-01T15:00:00Z
+ETB,2025-12-02,official,155.04,National Bank of Ethiopia,2025-12-02T13:00:00Z
+KES,2025-12-02,official,129.69,Central Bank of Kenya,2025-12-02T13:00:00Z
+RWF,2025-12-02,official,1450.79,National Bank of Rwanda,2025-12-02T14:00:00Z
+SSP,2025-12-02,official,4624.3,Bank of South Sudan,2025-12-02T14:00:00Z
+SSP,2025-12-02,parallel,6488.5,Market survey,2025-12-02T16:00:00Z
+XAF,2025-12-02,official,562.68,BEAC,2025-12-02T15:00:00Z
+ETB,2025-12-03,official,154.47,National Bank of Ethiopia,2025-12-03T13:00:00Z
+KES,2025-12-03,official,129.76,Central Bank of Kenya,2025-12-03T13:00:00Z
+RWF,2025-12-03,official,1450.47,National Bank of Rwanda,2025-12-03T14:00:00Z
+SSP,2025-12-03,official,4644.0,Bank of South Sudan,2025-12-03T14:00:00Z
+SSP,2025-12-03,parallel,6470.6,Market survey,2025-12-03T16:00:00Z
+XAF,2025-12-03,official,561.48,BEAC,2025-12-03T15:00:00Z
+ETB,2025-12-04,official,154.63,National Bank of Ethiopia,2025-12-04T13:00:00Z
+KES,2025-12-04,official,130.2,Central Bank of Kenya,2025-12-04T13:00:00Z
+RWF,2025-12-04,official,1451.96,National Bank of Rwanda,2025-12-04T14:00:00Z
+SSP,2025-12-04,official,4571.4,Bank of South Sudan,2025-12-04T14:00:00Z
+SSP,2025-12-04,parallel,6369.6,Market survey,2025-12-04T16:00:00Z
+XAF,2025-12-04,official,558.68,BEAC,2025-12-04T15:00:00Z
+ETB,2025-12-05,official,154.86,National Bank of Ethiopia,2025-12-05T13:00:00Z
+KES,2025-12-05,official,130.32,Central Bank of Kenya,2025-12-05T13:00:00Z
+RWF,2025-12-05,official,1453.17,National Bank of Rwanda,2025-12-05T14:00:00Z
+SSP,2025-12-05,official,4574.7,Bank of South Sudan,2025-12-05T14:00:00Z
+SSP,2025-12-05,parallel,6293.6,Market survey,2025-12-05T16:00:00Z
+XAF,2025-12-05,official,560.81,BEAC,2025-12-05T15:00:00Z
+ETB,2025-12-08,official,153.91,National Bank of Ethiopia,2025-12-08T13:00:00Z
+KES,2025-12-08,official,130.57,Central Bank of Kenya,2025-12-08T13:00:00Z
+RWF,2025-12-08,official,1455.13,National Bank of Rwanda,2025-12-08T14:00:00Z
+SSP,2025-12-08,official,4552.6,Bank of South Sudan,2025-12-08T14:00:00Z
+SSP,2025-12-08,parallel,6448.6,Market survey,2025-12-08T16:00:00Z
+XAF,2025-12-08,official,557.44,BEAC,2025-12-08T15:00:00Z
+ETB,2025-12-09,official,153.94,National Bank of Ethiopia,2025-12-09T13:00:00Z
+KES,2025-12-09,official,130.26,Central Bank of Kenya,2025-12-09T13:00:00Z
+RWF,2025-12-09,official,1455.26,National Bank of Rwanda,2025-12-09T14:00:00Z
+SSP,2025-12-09,official,4552.0,Bank of South Sudan,2025-12-09T14:00:00Z
+SSP,2025-12-09,parallel,6309.0,Market survey,2025-12-09T16:00:00Z
+XAF,2025-12-09,official,556.95,BEAC,2025-12-09T15:00:00Z
+ETB,2025-12-10,official,153.77,National Bank of Ethiopia,2025-12-10T13:00:00Z
+KES,2025-12-10,official,130.38,Central Bank of Kenya,2025-12-10T13:00:00Z
+RWF,2025-12-10,official,1457.55,National Bank of Rwanda,2025-12-10T14:00:00Z
+SSP,2025-12-10,official,4561.1,Bank of South Sudan,2025-12-10T14:00:00Z
+SSP,2025-12-10,parallel,6384.6,Market survey,2025-12-10T16:00:00Z
+XAF,2025-12-10,official,556.7,BEAC,2025-12-10T15:00:00Z
+ETB,2025-12-11,official,153.67,National Bank of Ethiopia,2025-12-11T13:00:00Z
+KES,2025-12-11,official,130.52,Central Bank of Kenya,2025-12-11T13:00:00Z
+RWF,2025-12-11,official,1458.13,National Bank of Rwanda,2025-12-11T14:00:00Z
+SSP,2025-12-11,official,4524.7,Bank of South Sudan,2025-12-11T14:00:00Z
+SSP,2025-12-11,parallel,6300.5,Market survey,2025-12-11T16:00:00Z
+XAF,2025-12-11,official,555.95,BEAC,2025-12-11T15:00:00Z
+ETB,2025-12-12,official,152.07,National Bank of Ethiopia,2025-12-12T13:00:00Z
+KES,2025-12-12,official,130.26,Central Bank of Kenya,2025-12-12T13:00:00Z
+RWF,2025-12-12,official,1457.17,National Bank of Rwanda,2025-12-12T14:00:00Z
+SSP,2025-12-12,official,4506.7,Bank of South Sudan,2025-12-12T14:00:00Z
+SSP,2025-12-12,parallel,6138.1,Market survey,2025-12-12T16:00:00Z
+XAF,2025-12-12,official,553.81,BEAC,2025-12-12T15:00:00Z
+ETB,2025-12-15,official,152.97,National Bank of Ethiopia,2025-12-15T13:00:00Z
+KES,2025-12-15,official,129.74,Central Bank of Kenya,2025-12-15T13:00:00Z
+RWF,2025-12-15,official,1451.61,National Bank of Rwanda,2025-12-15T14:00:00Z
+SSP,2025-12-15,official,4463.9,Bank of South Sudan,2025-12-15T14:00:00Z
+SSP,2025-12-15,parallel,6166.5,Market survey,2025-12-15T16:00:00Z
+XAF,2025-12-15,official,552.35,BEAC,2025-12-15T15:00:00Z
+ETB,2025-12-16,official,153.77,National Bank of Ethiopia,2025-12-16T13:00:00Z
+KES,2025-12-16,official,129.73,Central Bank of Kenya,2025-12-16T13:00:00Z
+RWF,2025-12-16,official,1447.25,National Bank of Rwanda,2025-12-16T14:00:00Z
+SSP,2025-12-16,official,4410.9,Bank of South Sudan,2025-12-16T14:00:00Z
+SSP,2025-12-16,parallel,6087.0,Market survey,2025-12-16T16:00:00Z
+XAF,2025-12-16,official,555.83,BEAC,2025-12-16T15:00:00Z
+ETB,2025-12-17,official,153.78,National Bank of Ethiopia,2025-12-17T13:00:00Z
+KES,2025-12-17,official,129.96,Central Bank of Kenya,2025-12-17T13:00:00Z
+RWF,2025-12-17,official,1446.99,National Bank of Rwanda,2025-12-17T14:00:00Z
+SSP,2025-12-17,official,4470.1,Bank of South Sudan,2025-12-17T14:00:00Z
+SSP,2025-12-17,parallel,6272.5,Market survey,2025-12-17T16:00:00Z
+XAF,2025-12-17,official,553.81,BEAC,2025-12-17T15:00:00Z
+ETB,2025-12-18,official,153.94,National Bank of Ethiopia,2025-12-18T13:00:00Z
+KES,2025-12-18,official,129.88,Central Bank of Kenya,2025-12-18T13:00:00Z
+RWF,2025-12-18,official,1449.64,National Bank of Rwanda,2025-12-18T14:00:00Z
+SSP,2025-12-18,official,4463.9,Bank of South Sudan,2025-12-18T14:00:00Z
+SSP,2025-12-18,parallel,6232.2,Market survey,2025-12-18T16:00:00Z
+XAF,2025-12-18,official,552.86,BEAC,2025-12-18T15:00:00Z
+ETB,2025-12-19,official,153.33,National Bank of Ethiopia,2025-12-19T13:00:00Z
+KES,2025-12-19,official,130.23,Central Bank of Kenya,2025-12-19T13:00:00Z
+RWF,2025-12-19,official,1447.51,National Bank of Rwanda,2025-12-19T14:00:00Z
+SSP,2025-12-19,official,4477.1,Bank of South Sudan,2025-12-19T14:00:00Z
+SSP,2025-12-19,parallel,6218.5,Market survey,2025-12-19T16:00:00Z
+XAF,2025-12-19,official,556.2,BEAC,2025-12-19T15:00:00Z
+ETB,2025-12-22,official,153.35,National Bank of Ethiopia,2025-12-22T13:00:00Z
+KES,2025-12-22,official,130.3,Central Bank of Kenya,2025-12-22T13:00:00Z
+RWF,2025-12-22,Official,1442.71,National Bank of Rwanda,2025-12-22T14:00:00Z
+SSP,2025-12-22,official,4581.1,Bank of South Sudan,2025-12-22T14:00:00Z
+SSP,2025-12-22,parallel,6260.6,Market survey,2025-12-22T16:00:00Z
+XAF,2025-12-22,official,555.81,BEAC,2025-12-22T15:00:00Z
+ETB,2025-12-23,official,154.26,National Bank of Ethiopia,2025-12-23T13:00:00Z
+KES,2025-12-23,official,130.38,Central Bank of Kenya,2025-12-23T13:00:00Z
+RWF,2025-12-23,official,1443.25,National Bank of Rwanda,2025-12-23T14:00:00Z
+SSP,2025-12-23,official,4617.0,Bank of South Sudan,2025-12-23T14:00:00Z
+SSP,2025-12-23,parallel,6459.9,Market survey,2025-12-23T16:00:00Z
+XAF,2025-12-23,official,555.7,BEAC,2025-12-23T15:00:00Z
+ETB,2025-12-24,official,155.13,National Bank of Ethiopia,2025-12-24T13:00:00Z
+KES,2025-12-24,official,130.71,Central Bank of Kenya,2025-12-24T13:00:00Z
+RWF,2025-12-24,official,1440.95,National Bank of Rwanda,2025-12-24T14:00:00Z
+SSP,2025-12-24,official,4661.1,Bank of South Sudan,2025-12-24T14:00:00Z
+SSP,2025-12-24,parallel,6408.9,Market survey,2025-12-24T16:00:00Z
+XAF,2025-12-24,official,557.07,BEAC,2025-12-24T15:00:00Z
+ETB,2025-12-25,official,155.49,National Bank of Ethiopia,2025-12-25T13:00:00Z
+KSH,2025-12-25,official,130.66,Central Bank of Kenya,2025-12-25T13:00:00Z
+RWF,2025-12-25,official,1443.75,National Bank of Rwanda,2025-12-25T14:00:00Z
+SSP,2025-12-25,official,4616.5,Bank of South Sudan,2025-12-25T14:00:00Z
+SSP,2025-12-25,parallel,6439.1,Market survey,2025-12-25T16:00:00Z
+XAF,2025-12-25,official,555.64,BEAC,2025-12-25T15:00:00Z
+ETB,2025-12-26,official,155.63,National Bank of Ethiopia,2025-12-26T13:00:00Z
+KES,2025-12-26,official,130.59,Central Bank of Kenya,2025-12-26T13:00:00Z
+RWF,2025-12-26,official,1443.0,National Bank of Rwanda,2025-12-26T14:00:00Z
+SSP,2025-12-26,official,4678.2,Bank of South Sudan,2025-12-26T14:00:00Z
+SSP,2025-12-26,parallel,6613.5,Market survey,2025-12-26T16:00:00Z
+XAF,2025-12-26,official,556.06,BEAC,2025-12-26T15:00:00Z
+ETB,2025-12-29,official,157.17,National Bank of Ethiopia,2025-12-29T13:00:00Z
+KES,2025-12-29,official,130.44,Central Bank of Kenya,2025-12-29T13:00:00Z
+RWF,2025-12-29,official,1447.72,National Bank of Rwanda,2025-12-29T14:00:00Z
+SSP,2025-12-29,official,4741.3,Bank of South Sudan,2025-12-29T14:00:00Z
+SSP,2025-12-29,parallel,6608.9,Market survey,2025-12-29T16:00:00Z
+XAF,2025-12-29,official,556.24,BEAC,2025-12-29T15:00:00Z
+ETB,2025-12-30,official,157.64,National Bank of Ethiopia,2025-12-30T13:00:00Z
+KES,2025-12-30,official,130.36,Central Bank of Kenya,2025-12-30T13:00:00Z
+RWF,2025-12-30,official,1444.51,National Bank of Rwanda,2025-12-30T14:00:00Z
+SSP,2025-12-30,official,4746.9,Bank of South Sudan,2025-12-30T14:00:00Z
+SSP,2025-12-30,parallel,6503.4,Market survey,2025-12-30T16:00:00Z
+XAF,2025-12-30,official,554.0,BEAC,2025-12-30T15:00:00Z
+ETB,2025-12-31,official,158.61,National Bank of Ethiopia,2025-12-31T13:00:00Z
+KES,2025-12-31,official,130.29,Central Bank of Kenya,2025-12-31T13:00:00Z
+RWF,2025-12-31,official,1444.04,National Bank of Rwanda,2025-12-31T14:00:00Z
+SSP,2025-12-31,official,4739.8,Bank of South Sudan,2025-12-31T14:00:00Z
+SSP,2025-12-31,parallel,6389.5,Market survey,2025-12-31T16:00:00Z
+XAF,2025-12-31,official,554.52,BEAC,2025-12-31T15:00:00Z
+ETB,2026-01-01,official,159.04,National Bank of Ethiopia,2026-01-01T13:00:00Z
+KES,2026-01-01,official,130.38,Central Bank of Kenya,2026-01-01T13:00:00Z
+RWF,2026-01-01,official,1490.0,National Bank of Rwanda,2026-01-01T14:00:00Z
+RWF,2026-01-01,official,1445.2,National Bank of Rwanda,2026-01-02T14:00:00Z
+SSP,2026-01-01,official,4762.0,Bank of South Sudan,2026-01-01T14:00:00Z
+SSP,2026-01-01,parallel,6562.9,Market survey,2026-01-01T16:00:00Z
+XAF,2026-01-01,official,553.81,BEAC,2026-01-01T15:00:00Z
+ETB,2026-01-02,official,159.1,National Bank of Ethiopia,2026-01-02T13:00:00Z
+KES,2026-01-02,official,130.46,Central Bank of Kenya,2026-01-02T13:00:00Z
+RWF,2026-01-02,official,1444.45,National Bank of Rwanda,2026-01-02T14:00:00Z
+SSP,2026-01-02,official,4777.0,Bank of South Sudan,2026-01-02T14:00:00Z
+SSP,2026-01-02,parallel,6556.5,Market survey,2026-01-02T16:00:00Z
+XAF,2026-01-02,official,553.97,BEAC,2026-01-02T15:00:00Z
+ETB,2026-01-05,official,159.45,National Bank of Ethiopia,2026-01-05T13:00:00Z
+KES,2026-01-05,official,130.47,Central Bank of Kenya,2026-01-05T13:00:00Z
+RWF,2026-01-05,official,1447.04,National Bank of Rwanda,2026-01-05T14:00:00Z
+SSP,2026-01-05,official,4831.0,Bank of South Sudan,2026-01-05T14:00:00Z
+SSP,2026-01-05,parallel,6760.5,Market survey,2026-01-05T16:00:00Z
+XAF,2026-01-05,official,552.99,BEAC,2026-01-05T15:00:00Z
+ETB,2026-01-06,official,159.32,National Bank of Ethiopia,2026-01-06T13:00:00Z
+KES,2026-01-06,official,130.67,Central Bank of Kenya,2026-01-06T13:00:00Z
+RWF,2026-01-06,official,1443.56,National Bank of Rwanda,2026-01-06T14:00:00Z
+SSP,2026-01-06,official,4856.1,Bank of South Sudan,2026-01-06T14:00:00Z
+SSP,2026-01-06,parallel,6818.4,Market survey,2026-01-06T16:00:00Z
+XAF,2026-01-06,official,553.45,BEAC,2026-01-06T15:00:00Z
+ETB,2026-01-07,official,159.56,National Bank of Ethiopia,2026-01-07T13:00:00Z
+KES,2026-01-07,official,130.93,Central Bank of Kenya,2026-01-07T13:00:00Z
+RWF,2026-01-07,official,1444.66,National Bank of Rwanda,2026-01-07T14:00:00Z
+SSP,2026-01-07,official,4845.5,Bank of South Sudan,2026-01-07T14:00:00Z
+SSP,2026-01-07,parallel,6673.5,Market survey,2026-01-07T16:00:00Z
+XAF,2026-01-07,official,554.89,BEAC,2026-01-07T15:00:00Z
+ETB,2026-01-08,official,160.2,National Bank of Ethiopia,2026-01-08T13:00:00Z
+KES,2026-01-08,official,130.63,Central Bank of Kenya,2026-01-08T13:00:00Z
+RWF,2026-01-08,official,1445.69,National Bank of Rwanda,2026-01-08T14:00:00Z
+SSP,2026-01-08,official,4861.2,Bank of South Sudan,2026-01-08T14:00:00Z
+SSP,2026-01-08,parallel,6706.2,Market survey,2026-01-08T16:00:00Z
+XAF,2026-01-08,official,554.73,BEAC,2026-01-08T15:00:00Z
+ETB,2026-01-09,official,160.0,National Bank of Ethiopia,2026-01-09T13:00:00Z
+KES,2026-01-09,official,130.46,Central Bank of Kenya,2026-01-09T13:00:00Z
+RWF,2026-01-09,official,1445.24,National Bank of Rwanda,2026-01-09T14:00:00Z
+SSP,2026-01-09,official,4834.9,Bank of South Sudan,2026-01-09T14:00:00Z
+SSP,2026-01-09,parallel,6797.0,Market survey,2026-01-09T16:00:00Z
+XAF,2026-01-09,official,558.02,BEAC,2026-01-09T15:00:00Z
+ETB,2026-01-12,official,159.72,National Bank of Ethiopia,2026-01-12T13:00:00Z
+KES,2026-01-12,official,130.63,Central Bank of Kenya,2026-01-12T13:00:00Z
+RWF,2026-01-12,official,1443.94,National Bank of Rwanda,2026-01-12T14:00:00Z
+SSP,2026-01-12,official,4866.0,Bank of South Sudan,2026-01-12T14:00:00Z
+SSP,2026-01-12,parallel,6791.5,Market survey,2026-01-12T16:00:00Z
+XAF,2026-01-12,official,556.43,BEAC,2026-01-12T15:00:00Z
+ETB,2026-01-13,official,160.35,National Bank of Ethiopia,2026-01-13T13:00:00Z
+KES,2026-01-13,official,130.27,Central Bank of Kenya,2026-01-13T13:00:00Z
+RWF,2026-01-13,official,1445.81,National Bank of Rwanda,2026-01-13T14:00:00Z
+SSP,2026-01-13,official,4891.3,Bank of South Sudan,2026-01-13T14:00:00Z
+SSP,2026-01-13,parallel,6773.6,Market survey,2026-01-13T16:00:00Z
+XAF,2026-01-13,official,556.84,BEAC,2026-01-13T15:00:00Z
+ETB,2026-01-14,official,160.69,National Bank of Ethiopia,2026-01-14T13:00:00Z
+KSH,2026-01-14,official,130.37,Central Bank of Kenya,2026-01-14T13:00:00Z
+RWF,2026-01-14,official,1446.26,National Bank of Rwanda,2026-01-14T14:00:00Z
+SSP,2026-01-14,official,4839.7,Bank of South Sudan,2026-01-14T14:00:00Z
+SSP,2026-01-14,parallel,6772.1,Market survey,2026-01-14T16:00:00Z
+XAF,2026-01-14,official,553.96,BEAC,2026-01-14T15:00:00Z
+ETB,2026-01-15,official,160.83,National Bank of Ethiopia,2026-01-15T13:00:00Z
+KES,2026-01-15,official,129.99,Central Bank of Kenya,2026-01-15T13:00:00Z
+RWF,2026-01-15,official,1446.95,National Bank of Rwanda,2026-01-15T14:00:00Z
+SSP,2026-01-15,official,4830.9,Bank of South Sudan,2026-01-15T14:00:00Z
+SSP,2026-01-15,parallel,6685.4,Market survey,2026-01-15T16:00:00Z
+XAF,2026-01-15,official,553.6,BEAC,2026-01-15T15:00:00Z
+ETB,2026-01-16,official,160.8,National Bank of Ethiopia,2026-01-16T13:00:00Z
+KES,2026-01-16,official,129.95,Central Bank of Kenya,2026-01-16T13:00:00Z
+RWF,2026-01-16,official,1444.48,National Bank of Rwanda,2026-01-16T14:00:00Z
+SSP,2026-01-16,official,4795.1,Bank of South Sudan,2026-01-16T14:00:00Z
+SSP,2026-01-16,parallel,6569.0,Market survey,2026-01-16T16:00:00Z
+XAF,2026-01-16,official,551.87,BEAC,2026-01-16T15:00:00Z
+ETB,2026-01-19,official,162.76,National Bank of Ethiopia,2026-01-19T13:00:00Z
+KES,2026-01-19,official,129.64,Central Bank of Kenya,2026-01-19T13:00:00Z
+RWF,2026-01-19,official,1447.39,National Bank of Rwanda,2026-01-19T14:00:00Z
+SSP,2026-01-19,official,4904.2,Bank of South Sudan,2026-01-19T14:00:00Z
+SSP,2026-01-19,parallel,6858.9,Market survey,2026-01-19T16:00:00Z
+XAF,2026-01-19,official,553.26,BEAC,2026-01-19T15:00:00Z
+ETB,2026-01-20,official,162.68,National Bank of Ethiopia,2026-01-20T13:00:00Z
+KES,2026-01-20,official,129.6,Central Bank of Kenya,2026-01-20T13:00:00Z
+RWF,2026-01-20,official,1449.25,National Bank of Rwanda,2026-01-20T14:00:00Z
+SSP,2026-01-20,official,4880.8,Bank of South Sudan,2026-01-20T14:00:00Z
+SSP,2026-01-20,parallel,6863.3,Market survey,2026-01-20T16:00:00Z
+XAF,2026-01-20,official,551.55,BEAC,2026-01-20T15:00:00Z
+ETB,2026-01-21,official,162.61,National Bank of Ethiopia,2026-01-21T13:00:00Z
+KES,2026-01-21,official,129.42,Central Bank of Kenya,2026-01-21T13:00:00Z
+RWF,2026-01-21,official,1448.6,National Bank of Rwanda,2026-01-21T14:00:00Z
+SSP,2026-01-21,official,4943.9,Bank of South Sudan,2026-01-21T14:00:00Z
+SSP,2026-01-21,parallel,6866.4,Market survey,2026-01-21T16:00:00Z
+XAF,2026-01-21,official,552.88,BEAC,2026-01-21T15:00:00Z
+ETB,2026-01-22,official,161.96,National Bank of Ethiopia,2026-01-22T13:00:00Z
+KES,2026-01-22,official,129.41,Central Bank of Kenya,2026-01-22T13:00:00Z
+RWF,2026-01-22,official,1448.17,National Bank of Rwanda,2026-01-22T14:00:00Z
+SSP,2026-01-22,official,4966.0,Bank of South Sudan,2026-01-22T14:00:00Z
+SSP,2026-01-22,parallel,6972.8,Market survey,2026-01-22T16:00:00Z
+XAF,2026-01-22,official,552.85,BEAC,2026-01-22T15:00:00Z
+ETB,2026-01-23,official,161.16,National Bank of Ethiopia,2026-01-23T13:00:00Z
+KES,2026-01-23,official,129.37,Central Bank of Kenya,2026-01-23T13:00:00Z
+RWF,2026-01-23,official,1448.82,National Bank of Rwanda,2026-01-23T14:00:00Z
+SSP,2026-01-23,official,4960.6,Bank of South Sudan,2026-01-23T14:00:00Z
+SSP,2026-01-23,parallel,6797.6,Market survey,2026-01-23T16:00:00Z
+XAF,2026-01-23,official,553.1,BEAC,2026-01-23T15:00:00Z
+ETB,2026-01-26,official,162.73,National Bank of Ethiopia,2026-01-26T13:00:00Z
+KES,2026-01-26,official,129.24,Central Bank of Kenya,2026-01-26T13:00:00Z
+RWF,2026-01-26,official,1449.14,National Bank of Rwanda,2026-01-26T14:00:00Z
+SSP,2026-01-26,official,5013.8,Bank of South Sudan,2026-01-26T14:00:00Z
+SSP,2026-01-26,parallel,6891.7,Market survey,2026-01-26T16:00:00Z
+XAF,2026-01-26,official,549.58,BEAC,2026-01-26T15:00:00Z
+ETB,2026-01-27,official,163.38,National Bank of Ethiopia,2026-01-27T13:00:00Z
+KES,2026-01-27,official,129.14,Central Bank of Kenya,2026-01-27T13:00:00Z
+RWF,2026-01-27,official,1449.99,National Bank of Rwanda,2026-01-27T14:00:00Z
+SSP,2026-01-27,official,4991.1,Bank of South Sudan,2026-01-27T14:00:00Z
+SSP,2026-01-27,parallel,6851.5,Market survey,2026-01-27T16:00:00Z
+XAF,2026-01-27,official,547.93,BEAC,2026-01-27T15:00:00Z
+ETB,2026-01-28,official,162.53,National Bank of Ethiopia,2026-01-28T13:00:00Z
+KES,2026-01-28,official,129.06,Central Bank of Kenya,2026-01-28T13:00:00Z
+RWF,2026-01-28,official,1450.44,National Bank of Rwanda,2026-01-28T14:00:00Z
+SSP,2026-01-28,official,4961.6,Bank of South Sudan,2026-01-28T14:00:00Z
+SSP,2026-01-28,parallel,6816.6,Market survey,2026-01-28T16:00:00Z
+XAF,2026-01-28,official,547.02,BEAC,2026-01-28T15:00:00Z
+ETB,2026-01-29,official,162.08,National Bank of Ethiopia,2026-01-29T13:00:00Z
+KES,2026-01-29,official,128.64,Central Bank of Kenya,2026-01-29T13:00:00Z
+RWF,2026-01-29,official,1451.18,National Bank of Rwanda,2026-01-29T14:00:00Z
+SSP,2026-01-29,official,4954.0,Bank of South Sudan,2026-01-29T14:00:00Z
+SSP,2026-01-29,parallel,6845.6,Market survey,2026-01-29T16:00:00Z
+XAF,2026-01-29,official,545.42,BEAC,2026-01-29T15:00:00Z
+ETB,2026-01-30,official,162.59,National Bank of Ethiopia,2026-01-30T13:00:00Z
+KES,2026-01-30,official,128.73,Central Bank of Kenya,2026-01-30T13:00:00Z
+RWF,2026-01-30,official,1452.03,National Bank of Rwanda,2026-01-30T14:00:00Z
+SSP,2026-01-30,official,4990.6,Bank of South Sudan,2026-01-30T14:00:00Z
+SSP,2026-01-30,parallel,6897.2,Market survey,2026-01-30T16:00:00Z
+XAF,2026-01-30,official,545.9,BEAC,2026-01-30T15:00:00Z
+ETB,2026-02-02,official,163.48,National Bank of Ethiopia,2026-02-02T13:00:00Z
+KES,2026-02-02,official,129.0,Central Bank of Kenya,2026-02-02T13:00:00Z
+RWF,2026-02-02,official,1451.83,National Bank of Rwanda,2026-02-02T14:00:00Z
+SSP,2026-02-02,official,4918.5,Bank of South Sudan,2026-02-02T14:00:00Z
+SSP,2026-02-02,parallel,6737.2,Market survey,2026-02-02T16:00:00Z
+XAF,2026-02-02,official,548.3,BEAC,2026-02-02T15:00:00Z
+ETB,2026-02-03,official,164.52,National Bank of Ethiopia,2026-02-03T13:00:00Z
+KES,2026-02-03,official,129.24,Central Bank of Kenya,2026-02-03T13:00:00Z
+RWF,2026-02-03,official,1448.6,National Bank of Rwanda,2026-02-03T14:00:00Z
+SSP,2026-02-03,official,4960.6,Bank of South Sudan,2026-02-03T14:00:00Z
+SSP,2026-02-03,parallel,6990.5,Market survey,2026-02-03T16:00:00Z
+XAF,2026-02-03,official,546.74,BEAC,2026-02-03T15:00:00Z
+ETB,2026-02-04,official,164.88,National Bank of Ethiopia,2026-02-04T13:00:00Z
+KES,2026-02-04,official,129.74,Central Bank of Kenya,2026-02-04T13:00:00Z
+RWF,2026-02-04,official,1446.47,National Bank of Rwanda,2026-02-04T14:00:00Z
+SSP,2026-02-04,official,4985.2,Bank of South Sudan,2026-02-04T14:00:00Z
+SSP,2026-02-04,parallel,6865.2,Market survey,2026-02-04T16:00:00Z
+XAF,2026-02-04,official,546.39,BEAC,2026-02-04T15:00:00Z
+ETB,2026-02-05,official,165.59,National Bank of Ethiopia,2026-02-05T13:00:00Z
+KES,2026-02-05,official,129.71,Central Bank of Kenya,2026-02-05T13:00:00Z
+RWF,2026-02-05,official,1447.62,National Bank of Rwanda,2026-02-05T14:00:00Z
+SSP,2026-02-05,official,5019.4,Bank of South Sudan,2026-02-05T14:00:00Z
+SSP,2026-02-05,parallel,7062.4,Market survey,2026-02-05T16:00:00Z
+XAF,2026-02-05,official,545.67,BEAC,2026-02-05T15:00:00Z
+ETB,2026-02-06,official,166.5,National Bank of Ethiopia,2026-02-06T13:00:00Z
+KES,2026-02-06,official,129.62,Central Bank of Kenya,2026-02-06T13:00:00Z
+RWF,2026-02-06,official,1449.16,National Bank of Rwanda,2026-02-06T14:00:00Z
+SSP,2026-02-06,official,5026.5,Bank of South Sudan,2026-02-06T14:00:00Z
+SSP,2026-02-06,parallel,7058.4,Market survey,2026-02-06T16:00:00Z
+XAF,2026-02-06,official,546.76,BEAC,2026-02-06T15:00:00Z
+ETB,2026-02-09,official,166.43,National Bank of Ethiopia,2026-02-09T13:00:00Z
+KES,2026-02-09,official,129.65,Central Bank of Kenya,2026-02-09T13:00:00Z
+RWF,2026-02-09,official,1450.67,National Bank of Rwanda,2026-02-09T14:00:00Z
+SSP,2026-02-09,official,5095.1,Bank of South Sudan,2026-02-09T14:00:00Z
+SSP,2026-02-09,parallel,6994.1,Market survey,2026-02-09T16:00:00Z
+XAF,2026-02-09,official,546.84,BEAC,2026-02-09T15:00:00Z
+ETB,2026-02-10,official,166.3,National Bank of Ethiopia,2026-02-10T13:00:00Z
+KES,2026-02-10,official,129.36,Central Bank of Kenya,2026-02-10T13:00:00Z
+RWF,2026-02-10,official,1452.77,National Bank of Rwanda,2026-02-10T14:00:00Z
+SSP,2026-02-10,official,5140.7,Bank of South Sudan,2026-02-10T14:00:00Z
+SSP,2026-02-10,parallel,7079.1,Market survey,2026-02-10T16:00:00Z
+XAF,2026-02-10,official,545.08,BEAC,2026-02-10T15:00:00Z
+ETB,2026-02-11,official,165.83,National Bank of Ethiopia,2026-02-11T13:00:00Z
+KES,2026-02-11,official,128.91,Central Bank of Kenya,2026-02-11T13:00:00Z
+RWF,2026-02-11,official,1453.52,National Bank of Rwanda,2026-02-11T14:00:00Z
+SSP,2026-02-11,official,5134.1,Bank of South Sudan,2026-02-11T14:00:00Z
+SSP,2026-02-11,parallel,7196.3,Market survey,2026-02-11T16:00:00Z
+XAF,2026-02-11,official,544.99,BEAC,2026-02-11T15:00:00Z
+ETB,2026-02-12,official,166.64,National Bank of Ethiopia,2026-02-12T13:00:00Z
+KES,2026-02-12,official,128.89,Central Bank of Kenya,2026-02-12T13:00:00Z
+RWF,2026-02-12,official,1452.89,National Bank of Rwanda,2026-02-12T14:00:00Z
+SSP,2026-02-12,official,5107.5,Bank of South Sudan,2026-02-12T14:00:00Z
+SSP,2026-02-12,parallel,7153.6,Market survey,2026-02-12T16:00:00Z
+XAF,2026-02-12,official,"545,83",BEAC,2026-02-12T15:00:00Z
+ETB,2026-02-13,official,167.12,National Bank of Ethiopia,2026-02-13T13:00:00Z
+KES,2026-02-13,official,128.55,Central Bank of Kenya,2026-02-13T13:00:00Z
+RWF,2026-02-13,official,1452.55,National Bank of Rwanda,2026-02-13T14:00:00Z
+SSP,2026-02-13,official,5043.5,Bank of South Sudan,2026-02-13T14:00:00Z
+SSP,2026-02-13,parallel,6985.1,Market survey,2026-02-13T16:00:00Z
+XAF,2026-02-13,official,544.18,BEAC,2026-02-13T15:00:00Z
+ETB,2026-02-16,official,168.15,National Bank of Ethiopia,2026-02-16T13:00:00Z
+KES,2026-02-16,official,128.81,Central Bank of Kenya,2026-02-16T13:00:00Z
+RWF,2026-02-16,official,1448.84,National Bank of Rwanda,2026-02-16T14:00:00Z
+SSP,2026-02-16,official,5089.3,Bank of South Sudan,2026-02-16T14:00:00Z
+SSP,2026-02-16,parallel,7085.7,Market survey,2026-02-16T16:00:00Z
+XAF,2026-02-16,official,543.22,BEAC,2026-02-16T15:00:00Z
+ETB,2026-02-17,official,168.66,National Bank of Ethiopia,2026-02-17T13:00:00Z
+KES,2026-02-17,official,128.94,Central Bank of Kenya,2026-02-17T13:00:00Z
+RWF,2026-02-17,official,1448.51,National Bank of Rwanda,2026-02-17T14:00:00Z
+SSP,2026-02-17,official,5173.0,Bank of South Sudan,2026-02-17T14:00:00Z
+SSP,2026-02-17,parallel,7186.9,Market survey,2026-02-17T16:00:00Z
+XAF,2026-02-17,official,542.62,BEAC,2026-02-17T15:00:00Z
+ETB,2026-02-18,official,168.18,National Bank of Ethiopia,2026-02-18T13:00:00Z
+KES,2026-02-18,official,128.72,Central Bank of Kenya,2026-02-18T13:00:00Z
+RWF,2026-02-18,official,1450.84,National Bank of Rwanda,2026-02-18T14:00:00Z
+SSP,2026-02-18,official,5148.5,Bank of South Sudan,2026-02-18T14:00:00Z
+SSP,2026-02-18,parallel,7190.9,Market survey,2026-02-18T16:00:00Z
+XAF,2026-02-18,official,543.15,BEAC,2026-02-18T15:00:00Z
+ETB,2026-02-19,official,168.85,National Bank of Ethiopia,2026-02-19T13:00:00Z
+KES,2026-02-19,official,128.99,Central Bank of Kenya,2026-02-19T13:00:00Z
+RWF,2026-02-19,official,1450.62,National Bank of Rwanda,2026-02-19T14:00:00Z
+SSP,2026-02-19,official,5170.7,Bank of South Sudan,2026-02-19T14:00:00Z
+SSP,2026-02-19,parallel,7121.2,Market survey,2026-02-19T16:00:00Z
+XAF,2026-02-19,official,543.43,BEAC,2026-02-19T15:00:00Z
+ETB,2026-02-20,official,168.59,National Bank of Ethiopia,2026-02-20T13:00:00Z
+KES,2026-02-20,official,128.93,Central Bank of Kenya,2026-02-20T13:00:00Z
+RWF,2026-02-20,official,1451.71,National Bank of Rwanda,2026-02-20T14:00:00Z
+SSP,2026-02-20,official,5126.4,Bank of South Sudan,2026-02-20T14:00:00Z
+SSP,2026-02-20,parallel,7100.5,Market survey,2026-02-20T16:00:00Z
+XAF,2026-02-20,official,541.99,BEAC,2026-02-20T15:00:00Z
+ETB,2026-02-23,official,169.23,National Bank of Ethiopia,2026-02-23T13:00:00Z
+KES,2026-02-23,official,128.68,Central Bank of Kenya,2026-02-23T13:00:00Z
+RWF,2026-02-23,official,1451.93,National Bank of Rwanda,2026-02-23T14:00:00Z
+SSP,2026-02-23,official,5160.5,Bank of South Sudan,2026-02-23T14:00:00Z
+SSP,2026-02-23,parallel,7210.2,Market survey,2026-02-23T16:00:00Z
+XAF,2026-02-23,official,543.09,BEAC,2026-02-23T15:00:00Z
+ETB,2026-02-24,official,169.0,National Bank of Ethiopia,2026-02-24T13:00:00Z
+KES,2026-02-24,official,128.62,Central Bank of Kenya,2026-02-24T13:00:00Z
+RWF,2026-02-24,official,1448.94,National Bank of Rwanda,2026-02-24T14:00:00Z
+SSP,2026-02-24,official,5128.9,Bank of South Sudan,2026-02-24T14:00:00Z
+SSP,2026-02-24,parallel,7297.6,Market survey,2026-02-24T16:00:00Z
+XAF,2026-02-24,official,543.04,BEAC,2026-02-24T15:00:00Z
+ETB,2026-02-25,official,169.22,National Bank of Ethiopia,2026-02-25T13:00:00Z
+KES,2026-02-25,official,128.55,Central Bank of Kenya,2026-02-25T13:00:00Z
+RWF,2026-02-25,official,1446.49,National Bank of Rwanda,2026-02-25T14:00:00Z
+SSP,2026-02-25,official,5133.4,Bank of South Sudan,2026-02-25T14:00:00Z
+SSP,2026-02-25,parallel,7231.2,Market survey,2026-02-25T16:00:00Z
+XAF,2026-02-25,official,543.34,BEAC,2026-02-25T15:00:00Z
+ETB,2026-02-26,official,169.52,National Bank of Ethiopia,2026-02-26T13:00:00Z
+KES,2026-02-26,official,128.57,Central Bank of Kenya,2026-02-26T13:00:00Z
+RWF,2026-02-26,official,1446.57,National Bank of Rwanda,2026-02-26T14:00:00Z
+SSP,2026-02-26,official,5127.3,Bank of South Sudan,2026-02-26T14:00:00Z
+SSP,2026-02-26,parallel,7215.7,Market survey,2026-02-26T16:00:00Z
+XAF,2026-02-26,official,543.38,BEAC,2026-02-26T15:00:00Z
+ETB,2026-02-27,official,169.33,National Bank of Ethiopia,2026-02-27T13:00:00Z
+KES,2026-02-27,official,128.83,Central Bank of Kenya,2026-02-27T13:00:00Z
+RWF,2026-02-27,official,1447.16,National Bank of Rwanda,2026-02-27T14:00:00Z
+SSP,2026-02-27,official,5131.1,Bank of South Sudan,2026-02-27T14:00:00Z
+SSP,2026-02-27,parallel,7297.2,Market survey,2026-02-27T16:00:00Z
+XAF,2026-02-27,official,544.32,BEAC,2026-02-27T15:00:00Z
+ETB,2026-03-02,official,167.69,National Bank of Ethiopia,2026-03-02T13:00:00Z
+KES,2026-03-02,official,129.01,Central Bank of Kenya,2026-03-02T13:00:00Z
+RWF,2026-03-02,official,1450.32,National Bank of Rwanda,2026-03-02T14:00:00Z
+SSP,2026-03-02,official,5050.3,Bank of South Sudan,2026-03-02T14:00:00Z
+SSP,2026-03-02,parallel,7061.9,Market survey,2026-03-02T16:00:00Z
+XAF,2026-03-02,official,542.66,BEAC,2026-03-02T15:00:00Z
+ETB,2026-03-03,official,168.35,National Bank of Ethiopia,2026-03-03T13:00:00Z
+KES,2026-03-03,official,129.13,Central Bank of Kenya,2026-03-03T13:00:00Z
+RWF,2026-03-03,official,1449.14,National Bank of Rwanda,2026-03-03T14:00:00Z
+SSP,2026-03-03,official,5073.7,Bank of South Sudan,2026-03-03T14:00:00Z
+SSP,2026-03-03,parallel,7027.9,Market survey,2026-03-03T16:00:00Z
+XAF,2026-03-03,official,541.93,BEAC,2026-03-03T15:00:00Z
+ETB,2026-03-04,official,167.7,National Bank of Ethiopia,2026-03-04T13:00:00Z
+KES,2026-03-04,official,129.14,Central Bank of Kenya,2026-03-04T13:00:00Z
+RWF,2026-03-04,official,1447.94,National Bank of Rwanda,2026-03-04T14:00:00Z
+SSP,2026-03-04,official,5104.5,Bank of South Sudan,2026-03-04T14:00:00Z
+SSP,2026-03-04,parallel,7047.3,Market survey,2026-03-04T16:00:00Z
+XAF,2026-03-04,official,"541,73",BEAC,2026-03-04T15:00:00Z
+ETB,2026-03-05,official,168.03,National Bank of Ethiopia,2026-03-05T13:00:00Z
+KES,2026-03-05,official,128.79,Central Bank of Kenya,2026-03-05T13:00:00Z
+RWF,2026-03-05,official,1450.1,National Bank of Rwanda,2026-03-05T14:00:00Z
+SSP,2026-03-05,official,5120.1,Bank of South Sudan,2026-03-05T14:00:00Z
+SSP,2026-03-05,parallel,7095.9,Market survey,2026-03-05T16:00:00Z
+XAF,2026-03-05,official,541.94,BEAC,2026-03-05T15:00:00Z
+ETB,2026-03-06,official,167.92,National Bank of Ethiopia,2026-03-06T13:00:00Z
+KES,2026-03-06,official,128.92,Central Bank of Kenya,2026-03-06T13:00:00Z
+RWF,2026-03-06,official,1450.97,National Bank of Rwanda,2026-03-06T14:00:00Z
+SSP,2026-03-06,official,5150.2,Bank of South Sudan,2026-03-06T14:00:00Z
+SSP,2026-03-06,parallel,7277.5,Market survey,2026-03-06T16:00:00Z
+XAF,2026-03-06,official,541.99,BEAC,2026-03-06T15:00:00Z
+ETB,2026-03-09,official,167.91,National Bank of Ethiopia,2026-03-09T13:00:00Z
+KES,2026-03-09,official,129.33,Central Bank of Kenya,2026-03-09T13:00:00Z
+RWF,2026-03-09,official,1452.85,National Bank of Rwanda,2026-03-09T14:00:00Z
+SSP,2026-03-09,official,5233.0,Bank of South Sudan,2026-03-09T14:00:00Z
+SSP,2026-03-09,parallel,7201.8,Market survey,2026-03-09T16:00:00Z
+XAF,2026-03-09,official,538.29,BEAC,2026-03-09T15:00:00Z
+ETB,2026-03-10,official,167.77,National Bank of Ethiopia,2026-03-10T13:00:00Z
+KES,2026-03-10,official,128.87,Central Bank of Kenya,2026-03-10T13:00:00Z
+RWF,2026-03-10,official,1452.23,National Bank of Rwanda,2026-03-10T14:00:00Z
+SSP,2026-03-10,official,5249.3,Bank of South Sudan,2026-03-10T14:00:00Z
+SSP,2026-03-10,parallel,7352.4,Market survey,2026-03-10T16:00:00Z
+XAF,2026-03-10,official,535.49,BEAC,2026-03-10T15:00:00Z
+ETB,2026-03-11,official,167.96,National Bank of Ethiopia,2026-03-11T13:00:00Z
+KES,2026-03-11,official,128.87,Central Bank of Kenya,2026-03-11T13:00:00Z
+RWF,2026-03-11,official,1452.79,National Bank of Rwanda,2026-03-11T14:00:00Z
+SSP,2026-03-11,official,5206.3,Bank of South Sudan,2026-03-11T14:00:00Z
+SSP,2026-03-11,parallel,7129.7,Market survey,2026-03-11T16:00:00Z
+XAF,2026-03-11,official,536.2,BEAC,2026-03-11T15:00:00Z
+ETB,2026-03-12,official,167.54,National Bank of Ethiopia,2026-03-12T13:00:00Z
+KES,2026-03-12,official,128.45,Central Bank of Kenya,2026-03-12T13:00:00Z
+RWF,2026-03-12,official,1455.13,National Bank of Rwanda,2026-03-12T14:00:00Z
+SSP,2026-03-12,official,5152.7,Bank of South Sudan,2026-03-12T14:00:00Z
+SSP,2026-03-12,parallel,7099.4,Market survey,2026-03-12T16:00:00Z
+XAF,2026-03-12,official,535.92,BEAC,2026-03-12T15:00:00Z
+ETB,2026-03-13,official,167.64,National Bank of Ethiopia,2026-03-13T13:00:00Z
+KES,2026-03-13,official,128.4,Central Bank of Kenya,2026-03-13T13:00:00Z
+RWF,2026-03-13,official,1456.31,National Bank of Rwanda,2026-03-13T14:00:00Z
+SSP,2026-03-13,official,5169.1,Bank of South Sudan,2026-03-13T14:00:00Z
+SSP,2026-03-13,parallel,7151.2,Market survey,2026-03-13T16:00:00Z
+XAF,2026-03-13,official,532.95,BEAC,2026-03-13T15:00:00Z
+ETB,2026-03-16,official,169.03,National Bank of Ethiopia,2026-03-16T13:00:00Z
+KES,2026-03-16,official,127.96,Central Bank of Kenya,2026-03-16T13:00:00Z
+RWF,2026-03-16,official,1453.73,National Bank of Rwanda,2026-03-16T14:00:00Z
+SSP,2026-03-16,official,5089.7,Bank of South Sudan,2026-03-16T14:00:00Z
+SSP,2026-03-16,parallel,7062.1,Market survey,2026-03-16T16:00:00Z
+XAF,2026-03-16,official,534.83,BEAC,2026-03-16T15:00:00Z
+ETB,2026-03-17,official,169.48,National Bank of Ethiopia,2026-03-17T13:00:00Z
+KES,2026-03-17,official,127.8,Central Bank of Kenya,2026-03-17T13:00:00Z
+RWF,2026-03-17,official,1455.14,National Bank of Rwanda,2026-03-17T14:00:00Z
+SSP,2026-03-17,official,5139.6,Bank of South Sudan,2026-03-17T14:00:00Z
+SSP,2026-03-17,parallel,7078.5,Market survey,2026-03-17T16:00:00Z
+XAF,2026-03-17,official,533.9,BEAC,2026-03-17T15:00:00Z
+ETB,2026-03-18,official,169.28,National Bank of Ethiopia,2026-03-18T13:00:00Z
+KES,2026-03-18,official,128.02,Central Bank of Kenya,2026-03-18T13:00:00Z
+RWF,2026-03-18,official,1456.24,National Bank of Rwanda,2026-03-18T14:00:00Z
+SSP,2026-03-18,official,5146.0,Bank of South Sudan,2026-03-18T14:00:00Z
+SSP,2026-03-18,parallel,7205.4,Market survey,2026-03-18T16:00:00Z
+XAF,2026-03-18,official,534.45,BEAC,2026-03-18T15:00:00Z
+ETB,2026-03-19,official,169.69,National Bank of Ethiopia,2026-03-19T13:00:00Z
+KES,2026-03-19,official,127.91,Central Bank of Kenya,2026-03-19T13:00:00Z
+RWF,2026-03-19,official,1454.63,National Bank of Rwanda,2026-03-19T14:00:00Z
+SSP,2026-03-19,official,5149.5,Bank of South Sudan,2026-03-19T14:00:00Z
+SSP,2026-03-19,parallel,7012.4,Market survey,2026-03-19T16:00:00Z
+XAF,2026-03-19,official,534.89,BEAC,2026-03-19T15:00:00Z
+ETB,2026-03-20,official,169.3,National Bank of Ethiopia,2026-03-20T13:00:00Z
+KES,2026-03-20,official,127.57,Central Bank of Kenya,2026-03-20T13:00:00Z
+RWF,2026-03-20,official,1456.51,National Bank of Rwanda,2026-03-20T14:00:00Z
+SSP,2026-03-20,official,5171.9,Bank of South Sudan,2026-03-20T14:00:00Z
+SSP,2026-03-20,parallel,7166.8,Market survey,2026-03-20T16:00:00Z
+XAF,2026-03-20,official,534.53,BEAC,2026-03-20T15:00:00Z
+ETB,2026-03-23,official,167.86,National Bank of Ethiopia,2026-03-23T13:00:00Z
+KES,2026-03-23,official,127.7,Central Bank of Kenya,2026-03-23T13:00:00Z
+RWF,2026-03-23,official,1459.07,National Bank of Rwanda,2026-03-23T14:00:00Z
+SSP,2026-03-23,official,5222.3,Bank of South Sudan,2026-03-23T14:00:00Z
+SSP,2026-03-23,parallel,7348.5,Market survey,2026-03-23T16:00:00Z
+XAF,2026-03-23,official,537.31,BEAC,2026-03-23T15:00:00Z
+ETB,2026-03-24,official,166.82,National Bank of Ethiopia,2026-03-24T13:00:00Z
+KES,2026-03-24,official,127.65,Central Bank of Kenya,2026-03-24T13:00:00Z
+RWF,2026-03-24,official,1461.07,National Bank of Rwanda,2026-03-24T14:00:00Z
+SSP,2026-03-24,official,5200.9,Bank of South Sudan,2026-03-24T14:00:00Z
+SSP,2026-03-24,parallel,7232.4,Market survey,2026-03-24T16:00:00Z
+XAF,2026-03-24,official,535.75,BEAC,2026-03-24T15:00:00Z
+ETB,2026-03-25,official,166.55,National Bank of Ethiopia,2026-03-25T13:00:00Z
+KES,2026-03-25,official,127.6,Central Bank of Kenya,2026-03-25T13:00:00Z
+RWF,2026-03-25,official,1461.91,National Bank of Rwanda,2026-03-25T14:00:00Z
+SSP,2026-03-25,official,5143.3,Bank of South Sudan,2026-03-25T14:00:00Z
+SSP,2026-03-25,parallel,7081.2,Market survey,2026-03-25T16:00:00Z
+XAF,2026-03-25,official,537.51,BEAC,2026-03-25T15:00:00Z
+ETB,2026-03-26,official,165.74,National Bank of Ethiopia,2026-03-26T13:00:00Z
+KES,2026-03-26,official,127.68,Central Bank of Kenya,2026-03-26T13:00:00Z
+RWF,2026-03-26,official,1463.47,National Bank of Rwanda,2026-03-26T14:00:00Z
+SSP,2026-03-26,official,5136.0,Bank of South Sudan,2026-03-26T14:00:00Z
+SSP,2026-03-26,parallel,7118.7,Market survey,2026-03-26T16:00:00Z
+XAF,2026-03-26,official,538.27,BEAC,2026-03-26T15:00:00Z
+ETB,2026-03-27,official,166.07,National Bank of Ethiopia,2026-03-27T13:00:00Z
+KES,2026-03-27,official,127.82,Central Bank of Kenya,2026-03-27T13:00:00Z
+RWF,2026-03-27,official,1464.31,National Bank of Rwanda,2026-03-27T14:00:00Z
+SSP,2026-03-27,official,5151.0,Bank of South Sudan,2026-03-27T14:00:00Z
+SSP,2026-03-27,parallel,7169.4,Market survey,2026-03-27T16:00:00Z
+XAF,2026-03-27,official,537.9,BEAC,2026-03-27T15:00:00Z
+ETB,2026-03-30,official,164.67,National Bank of Ethiopia,2026-03-30T13:00:00Z
+KES,2026-03-30,official,127.49,Central Bank of Kenya,2026-03-30T13:00:00Z
+RWF,2026-03-30,official,1464.71,National Bank of Rwanda,2026-03-30T14:00:00Z
+SSP,2026-03-30,official,5135.4,Bank of South Sudan,2026-03-30T14:00:00Z
+SSP,2026-03-30,parallel,7109.8,Market survey,2026-03-30T16:00:00Z
+XAF,2026-03-30,official,534.82,BEAC,2026-03-30T15:00:00Z
+ETB,2026-03-31,official,164.14,National Bank of Ethiopia,2026-03-31T13:00:00Z
+KES,2026-03-31,official,127.46,Central Bank of Kenya,2026-03-31T13:00:00Z
+RWF,2026-03-31,official,1464.92,National Bank of Rwanda,2026-03-31T14:00:00Z
+SSP,2026-03-31,official,5210.1,Bank of South Sudan,2026-03-31T14:00:00Z
+SSP,2026-03-31,parallel,7212.2,Market survey,2026-03-31T16:00:00Z
+XAF,2026-03-31,official,534.19,BEAC,2026-03-31T15:00:00Z
+ETB,2026-04-01,official,162.41,National Bank of Ethiopia,2026-04-01T13:00:00Z
+KES,2026-04-01,official,127.29,Central Bank of Kenya,2026-04-01T13:00:00Z
+RWF,2026-04-01,official,1462.88,National Bank of Rwanda,2026-04-01T14:00:00Z
+SSP,2026-04-01,official,5240.3,Bank of South Sudan,2026-04-01T14:00:00Z
+SSP,2026-04-01,parallel,7185.8,Market survey,2026-04-01T16:00:00Z
+XAF,2026-04-01,official,535.0,BEAC,2026-04-01T15:00:00Z
+ETB,2026-04-02,official,162.35,National Bank of Ethiopia,2026-04-02T13:00:00Z
+KES,2026-04-02,official,127.2,Central Bank of Kenya,2026-04-02T13:00:00Z
+RWF,2026-04-02,official,1467.11,National Bank of Rwanda,2026-04-02T14:00:00Z
+SSP,2026-04-02,official,5328.7,Bank of South Sudan,2026-04-02T14:00:00Z
+SSP,2026-04-02,parallel,7359.5,Market survey,2026-04-02T16:00:00Z
+XAF,2026-04-02,official,533.59,BEAC,2026-04-02T15:00:00Z
+ETB,2026-04-03,official,162.59,National Bank of Ethiopia,2026-04-03T13:00:00Z
+KES,2026-04-03,official,127.39,Central Bank of Kenya,2026-04-03T13:00:00Z
+RWF,2026-04-03,official,1467.56,National Bank of Rwanda,2026-04-03T14:00:00Z
+SSP,2026-04-03,official,5357.2,Bank of South Sudan,2026-04-03T14:00:00Z
+SSP,2026-04-03,parallel,7372.3,Market survey,2026-04-03T16:00:00Z
+XAF,2026-04-03,official,532.4,BEAC,2026-04-03T15:00:00Z
+ETB,2026-04-06,official,163.49,National Bank of Ethiopia,2026-04-06T13:00:00Z
+KES,2026-04-06,official,127.61,Central Bank of Kenya,2026-04-06T13:00:00Z
+RWF,2026-04-06,official,1467.28,National Bank of Rwanda,2026-04-06T14:00:00Z
+SSP,2026-04-06,official,5331.2,Bank of South Sudan,2026-04-06T14:00:00Z
+SSP,2026-04-06,parallel,7442.3,Market survey,2026-04-06T16:00:00Z
+XAF,2026-04-06,official,532.14,BEAC,2026-04-06T15:00:00Z
+ETB,2026-04-07,official,163.05,National Bank of Ethiopia,2026-04-07T13:00:00Z
+KES,2026-04-07,official,127.62,Central Bank of Kenya,2026-04-07T13:00:00Z
+RWF,2026-04-07,official,1469.28,National Bank of Rwanda,2026-04-07T14:00:00Z
+SSP,2026-04-07,official,5395.1,Bank of South Sudan,2026-04-07T14:00:00Z
+SSP,2026-04-07,parallel,7474.3,Market survey,2026-04-07T16:00:00Z
+XAF,2026-04-07,official,532.33,BEAC,2026-04-07T15:00:00Z
+ETB,2026-04-08,official,162.88,National Bank of Ethiopia,2026-04-08T13:00:00Z
+KES,2026-04-08,official,127.63,Central Bank of Kenya,2026-04-08T13:00:00Z
+RWF,2026-04-08,official,1470.55,National Bank of Rwanda,2026-04-08T14:00:00Z
+SSP,2026-04-08,official,5383.3,Bank of South Sudan,2026-04-08T14:00:00Z
+SSP,2026-04-08,parallel,7629.1,Market survey,2026-04-08T16:00:00Z
+XAF,2026-04-08,official,530.27,BEAC,2026-04-08T15:00:00Z
+ETB,2026-04-09,Official,163.3,National Bank of Ethiopia,2026-04-09T13:00:00Z
+KES,2026-04-09,official,127.5,Central Bank of Kenya,2026-04-09T13:00:00Z
+RWF,2026-04-09,official,1473.26,National Bank of Rwanda,2026-04-09T14:00:00Z
+SSP,2026-04-09,official,5470.1,Bank of South Sudan,2026-04-09T14:00:00Z
+SSP,2026-04-09,parallel,7572.8,Market survey,2026-04-09T16:00:00Z
+XAF,2026-04-09,official,530.1,BEAC,2026-04-09T15:00:00Z
+ETB,2026-04-10,official,163.12,National Bank of Ethiopia,2026-04-10T13:00:00Z
+KES,2026-04-10,official,127.41,Central Bank of Kenya,2026-04-10T13:00:00Z
+RWF,2026-04-10,official,1470.25,National Bank of Rwanda,2026-04-10T14:00:00Z
+SSP,2026-04-10,official,5501.7,Bank of South Sudan,2026-04-10T14:00:00Z
+SSP,2026-04-10,parallel,7644.5,Market survey,2026-04-10T16:00:00Z
+XAF,2026-04-10,official,528.76,BEAC,2026-04-10T15:00:00Z
+ETB,2026-04-13,official,164.32,National Bank of Ethiopia,2026-04-13T13:00:00Z
+KES,2026-04-13,official,128.1,Central Bank of Kenya,2026-04-13T13:00:00Z
+RWF,2026-04-13,official,1469.49,National Bank of Rwanda,2026-04-13T14:00:00Z
+SSP,2026-04-13,official,5486.2,Bank of South Sudan,2026-04-13T14:00:00Z
+SSP,2026-04-13,parallel,7547.6,Market survey,2026-04-13T16:00:00Z
+XAF,2026-04-13,official,526.46,BEAC,2026-04-13T15:00:00Z
+ETB,2026-04-14,official,164.71,National Bank of Ethiopia,2026-04-14T13:00:00Z
+KES,2026-04-14,official,127.96,Central Bank of Kenya,2026-04-14T13:00:00Z
+RWF,2026-04-14,official,1471.59,National Bank of Rwanda,2026-04-14T14:00:00Z
+SSP,2026-04-14,official,5520.9,Bank of South Sudan,2026-04-14T14:00:00Z
+SSP,2026-04-14,parallel,7701.0,Market survey,2026-04-14T16:00:00Z
+XAF,2026-04-14,official,526.76,BEAC,2026-04-14T15:00:00Z
+ETB,2026-04-15,official,164.4,National Bank of Ethiopia,2026-04-15T13:00:00Z
+KES,2026-04-15,official,127.92,Central Bank of Kenya,2026-04-15T13:00:00Z
+RWF,2026-04-15,official,1471.03,National Bank of Rwanda,2026-04-15T14:00:00Z
+SSP,2026-04-15,official,5553.0,Bank of South Sudan,2026-04-15T14:00:00Z
+SSP,2026-04-15,parallel,7681.3,Market survey,2026-04-15T16:00:00Z
+XAF,2026-04-15,official,525.01,BEAC,2026-04-15T15:00:00Z
+ETB,2026-04-16,official,163.95,National Bank of Ethiopia,2026-04-16T13:00:00Z
+KES,2026-04-16,official,128.24,Central Bank of Kenya,2026-04-16T13:00:00Z
+RWF,2026-04-16,official,1471.21,National Bank of Rwanda,2026-04-16T14:00:00Z
+SSP,2026-04-16,official,5554.0,Bank of South Sudan,2026-04-16T14:00:00Z
+SSP,2026-04-16,parallel,7680.4,Market survey,2026-04-16T16:00:00Z
+XAF,2026-04-16,official,525.46,BEAC,2026-04-16T15:00:00Z
+ETB,2026-04-17,official,163.88,National Bank of Ethiopia,2026-04-17T13:00:00Z
+KES,2026-04-17,official,128.35,Central Bank of Kenya,2026-04-17T13:00:00Z
+RWF,2026-04-17,official,1472.0,National Bank of Rwanda,2026-04-17T14:00:00Z
+SSP,2026-04-17,official,5556.0,Bank of South Sudan,2026-04-17T14:00:00Z
+SSP,2026-04-17,parallel,7621.0,Market survey,2026-04-17T16:00:00Z
+XAF,2026-04-17,official,525.32,BEAC,2026-04-17T15:00:00Z
+ETB,2026-04-20,official,163.15,National Bank of Ethiopia,2026-04-20T13:00:00Z
+KES,2026-04-20,official,128.44,Central Bank of Kenya,2026-04-20T13:00:00Z
+RWF,2026-04-20,official,1473.14,National Bank of Rwanda,2026-04-20T14:00:00Z
+SSP,2026-04-20,official,5511.0,Bank of South Sudan,2026-04-20T14:00:00Z
+SSP,2026-04-20,parallel,7489.1,Market survey,2026-04-20T16:00:00Z
+XAF,2026-04-20,official,523.4,BEAC,2026-04-20T15:00:00Z
+ETB,2026-04-21,official,163.71,National Bank of Ethiopia,2026-04-21T13:00:00Z
+KES,2026-04-21,official,128.53,Central Bank of Kenya,2026-04-21T13:00:00Z
+RWF,2026-04-21,official,1475.25,National Bank of Rwanda,2026-04-21T14:00:00Z
+SSP,2026-04-21,official,5513.8,Bank of South Sudan,2026-04-21T14:00:00Z
+SSP,2026-04-21,parallel,7690.7,Market survey,2026-04-21T16:00:00Z
+XAF,2026-04-21,official,524.04,BEAC,2026-04-21T15:00:00Z
+ETB,2026-04-22,official,164.26,National Bank of Ethiopia,2026-04-22T13:00:00Z
+KES,2026-04-22,official,128.76,Central Bank of Kenya,2026-04-22T13:00:00Z
+RWF,2026-04-22,official,1476.52,National Bank of Rwanda,2026-04-22T14:00:00Z
+SSP,2026-04-22,official,5548.0,Bank of South Sudan,2026-04-22T14:00:00Z
+SSP,2026-04-22,parallel,7888.8,Market survey,2026-04-22T16:00:00Z
+XAF,2026-04-22,official,523.46,BEAC,2026-04-22T15:00:00Z
+ETB,2026-04-23,official,163.61,National Bank of Ethiopia,2026-04-23T13:00:00Z
+KES,2026-04-23,official,128.74,Central Bank of Kenya,2026-04-23T13:00:00Z
+RWF,2026-04-23,official,1473.75,National Bank of Rwanda,2026-04-23T14:00:00Z
+SSP,2026-04-23,official,5499.2,Bank of South Sudan,2026-04-23T14:00:00Z
+SSP,2026-04-23,parallel,7720.7,Market survey,2026-04-23T16:00:00Z
+XAF,2026-04-23,official,521.3,BEAC,2026-04-23T15:00:00Z
+ETB,2026-04-24,official,163.52,National Bank of Ethiopia,2026-04-24T13:00:00Z
+KES,2026-04-24,official,0.007759,Central Bank of Kenya,2026-04-24T13:00:00Z
+RWF,2026-04-24,official,1472.44,National Bank of Rwanda,2026-04-24T14:00:00Z
+SSP,2026-04-24,official,5542.2,Bank of South Sudan,2026-04-24T14:00:00Z
+SSP,2026-04-24,parallel,7844.2,Market survey,2026-04-24T16:00:00Z
+XAF,2026-04-24,official,520.88,BEAC,2026-04-24T15:00:00Z
+ETB,2026-04-27,official,164.34,National Bank of Ethiopia,2026-04-27T13:00:00Z
+KES,2026-04-27,official,129.5,Central Bank of Kenya,2026-04-27T13:00:00Z
+RWF,2026-04-27,official,1475.72,National Bank of Rwanda,2026-04-27T14:00:00Z
+SSP,2026-04-27,official,5614.4,Bank of South Sudan,2026-04-27T14:00:00Z
+SSP,2026-04-27,parallel,7854.6,Market survey,2026-04-27T16:00:00Z
+XAF,2026-04-27,official,518.64,BEAC,2026-04-27T15:00:00Z
+ETB,2026-04-28,official,163.89,National Bank of Ethiopia,2026-04-28T13:00:00Z
+KES,2026-04-28,official,129.3,Central Bank of Kenya,2026-04-28T13:00:00Z
+RWF,2026-04-28,official,1478.45,National Bank of Rwanda,2026-04-28T14:00:00Z
+SSP,2026-04-28,official,5652.6,Bank of South Sudan,2026-04-28T14:00:00Z
+SSP,2026-04-28,parallel,7834.6,Market survey,2026-04-28T16:00:00Z
+XAF,2026-04-28,official,519.23,BEAC,2026-04-28T15:00:00Z
+ETB,2026-04-29,official,164.08,National Bank of Ethiopia,2026-04-29T13:00:00Z
+KES,2026-04-29,official,129.06,Central Bank of Kenya,2026-04-29T13:00:00Z
+RWF,2026-04-29,official,1479.84,National Bank of Rwanda,2026-04-29T14:00:00Z
+SSP,2026-04-29,official,5637.8,Bank of South Sudan,2026-04-29T14:00:00Z
+SSP,2026-04-29,parallel,7938.2,Market survey,2026-04-29T16:00:00Z
+XAF,2026-04-29,official,521.34,BEAC,2026-04-29T15:00:00Z
+ETB,2026-04-30,official,164.14,National Bank of Ethiopia,2026-04-30T13:00:00Z
+KES,2026-04-30,official,129.36,Central Bank of Kenya,2026-04-30T13:00:00Z
+RWF,2026-04-30,official,1477.79,National Bank of Rwanda,2026-04-30T14:00:00Z
+SSP,2026-04-30,official,5670.6,Bank of South Sudan,2026-04-30T14:00:00Z
+SSP,2026-04-30,parallel,7900.4,Market survey,2026-04-30T16:00:00Z
+XAF,2026-04-30,official,519.24,BEAC,2026-04-30T15:00:00Z
+ETB,2026-05-01,official,163.31,National Bank of Ethiopia,2026-05-01T13:00:00Z
+KES,2026-05-01,official,129.59,Central Bank of Kenya,2026-05-01T13:00:00Z
+RWF,2026-05-01,official,1478.48,National Bank of Rwanda,2026-05-01T14:00:00Z
+SSP,2026-05-01,official,5639.7,Bank of South Sudan,2026-05-01T14:00:00Z
+SSP,2026-05-01,parallel,8074.9,Market survey,2026-05-01T16:00:00Z
+XAF,2026-05-01,official,517.39,BEAC,2026-05-01T15:00:00Z
+ETB,2026-05-04,official,164.26,National Bank of Ethiopia,2026-05-04T13:00:00Z
+KES,2026-05-04,official,129.71,Central Bank of Kenya,2026-05-04T13:00:00Z
+RWF,2026-05-04,official,1482.36,National Bank of Rwanda,2026-05-04T14:00:00Z
+SSP,2026-05-04,official,5673.1,Bank of South Sudan,2026-05-04T14:00:00Z
+SSP,2026-05-04,parallel,7859.4,Market survey,2026-05-04T16:00:00Z
+XAF,2026-05-04,official,520.76,BEAC,2026-05-04T15:00:00Z
+ETB,2026-05-05,official,163.5,National Bank of Ethiopia,2026-05-05T13:00:00Z
+KES,2026-05-05,official,129.11,Central Bank of Kenya,2026-05-05T13:00:00Z
+RWF,2026-05-05,official,1483.83,National Bank of Rwanda,2026-05-05T14:00:00Z
+SSP,2026-05-05,official,5694.5,Bank of South Sudan,2026-05-05T14:00:00Z
+SSP,2026-05-05,parallel,7933.6,Market survey,2026-05-05T16:00:00Z
+XAF,2026-05-05,official,519.98,BEAC,2026-05-05T15:00:00Z
+ETB,2026-05-06,official,164.33,National Bank of Ethiopia,2026-05-06T13:00:00Z
+KES,2026-05-06,official,128.8,Central Bank of Kenya,2026-05-06T13:00:00Z
+RWF,2026-05-06,official,1482.74,National Bank of Rwanda,2026-05-06T14:00:00Z
+SSP,2026-05-06,official,5658.7,Bank of South Sudan,2026-05-06T14:00:00Z
+SSP,2026-05-06,parallel,7910.2,Market survey,2026-05-06T16:00:00Z
+XAF,2026-05-06,official,520.5,BEAC,2026-05-06T15:00:00Z
+ETB,2026-05-07,official,163.97,National Bank of Ethiopia,2026-05-07T13:00:00Z
+KES,2026-05-07,official,128.96,Central Bank of Kenya,2026-05-07T13:00:00Z
+RWF,2026-05-07,official,1484.09,National Bank of Rwanda,2026-05-07T14:00:00Z
+SSP,2026-05-07,official,5601.8,Bank of South Sudan,2026-05-07T14:00:00Z
+SSP,2026-05-07,parallel,7780.8,Market survey,2026-05-07T16:00:00Z
+XAF,2026-05-07,official,521.99,BEAC,2026-05-07T15:00:00Z
+ETB,2026-05-08,official,165.18,National Bank of Ethiopia,2026-05-08T13:00:00Z
+KES,2026-05-08,official,128.95,Central Bank of Kenya,2026-05-08T13:00:00Z
+RWF,2026-05-08,official,1484.28,National Bank of Rwanda,2026-05-08T14:00:00Z
+SSP,2026-05-08,official,5626.5,Bank of South Sudan,2026-05-08T14:00:00Z
+SSP,2026-05-08,parallel,7769.5,Market survey,2026-05-08T16:00:00Z
+XAF,2026-05-08,official,522.3,BEAC,2026-05-08T15:00:00Z
+ETB,2026-05-11,official,167.22,National Bank of Ethiopia,2026-05-11T13:00:00Z
+KES,2026-05-11,official,129.42,Central Bank of Kenya,2026-05-11T13:00:00Z
+RWF,2026-05-11,official,1481.15,National Bank of Rwanda,2026-05-11T14:00:00Z
+SSP,2026-05-11,official,5570.9,Bank of South Sudan,2026-05-11T14:00:00Z
+SSP,2026-05-11,parallel,7720.5,Market survey,2026-05-11T16:00:00Z
+XAF,2026-05-11,official,523.45,BEAC,2026-05-11T15:00:00Z
+ETB,2026-05-12,official,166.01,National Bank of Ethiopia,2026-05-12T13:00:00Z
+KES,2026-05-12,official,129.62,Central Bank of Kenya,2026-05-12T13:00:00Z
+RWF,2026-05-12,official,1480.82,National Bank of Rwanda,2026-05-12T14:00:00Z
+SSP,2026-05-12,official,5528.8,Bank of South Sudan,2026-05-12T14:00:00Z
+SSP,2026-05-12,parallel,7788.5,Market survey,2026-05-12T16:00:00Z
+XAF,2026-05-12,official,523.98,BEAC,2026-05-12T15:00:00Z
+ETB,2026-05-13,official,167.31,National Bank of Ethiopia,2026-05-13T13:00:00Z
+KES,2026-05-13,official,129.66,Central Bank of Kenya,2026-05-13T13:00:00Z
+RWF,2026-05-13,official,1481.51,National Bank of Rwanda,2026-05-13T14:00:00Z
+SSP,2026-05-13,official,5599.2,Bank of South Sudan,2026-05-13T14:00:00Z
+SSP,2026-05-13,parallel,7794.3,Market survey,2026-05-13T16:00:00Z
+XAF,2026-05-13,official,524.54,BEAC,2026-05-13T15:00:00Z
+ETB,2026-05-14,official,166.99,National Bank of Ethiopia,2026-05-14T13:00:00Z
+KES,2026-05-14,official,129.79,Central Bank of Kenya,2026-05-14T13:00:00Z
+RWF,2026-05-14,official,1482.56,National Bank of Rwanda,2026-05-14T14:00:00Z
+SSP,2026-05-14,official,5581.6,Bank of South Sudan,2026-05-14T14:00:00Z
+SSP,2026-05-14,parallel,7850.5,Market survey,2026-05-14T16:00:00Z
+XAF,2026-05-14,official,523.97,BEAC,2026-05-14T15:00:00Z
+ETB,2026-05-15,official,167.35,National Bank of Ethiopia,2026-05-15T13:00:00Z
+KES,2026-05-15,official,129.77,Central Bank of Kenya,2026-05-15T13:00:00Z
+RWF,2026-05-15,official,1479.45,National Bank of Rwanda,2026-05-15T14:00:00Z
+SSP,2026-05-15,official,5615.0,Bank of South Sudan,2026-05-15T14:00:00Z
+SSP,2026-05-15,parallel,7792.8,Market survey,2026-05-15T16:00:00Z
+XAF,2026-05-15,official,523.51,BEAC,2026-05-15T15:00:00Z
+ETB,2026-05-18,official,168.63,National Bank of Ethiopia,2026-05-18T13:00:00Z
+KES,2026-05-18,official,129.46,Central Bank of Kenya,2026-05-18T13:00:00Z
+RWF,2026-05-18,official,1477.47,National Bank of Rwanda,2026-05-18T14:00:00Z
+SSP,2026-05-18,official,5735.5,Bank of South Sudan,2026-05-18T14:00:00Z
+SSP,2026-05-18,parallel,8012.0,Market survey,2026-05-18T16:00:00Z
+XAF,2026-05-18,official,523.18,BEAC,2026-05-18T15:00:00Z
+ETB,2026-05-19,official,167.91,National Bank of Ethiopia,2026-05-19T13:00:00Z
+KES,2026-05-19,official,129.45,Central Bank of Kenya,2026-05-19T13:00:00Z
+RWF,2026-05-19,official,1478.05,National Bank of Rwanda,2026-05-19T14:00:00Z
+SSP,2026-05-19,official,5752.0,Bank of South Sudan,2026-05-19T14:00:00Z
+SSP,2026-05-19,parallel,7876.3,Market survey,2026-05-19T16:00:00Z
+XAF,2026-05-19,official,525.15,BEAC,2026-05-19T15:00:00Z
+ETB,2026-05-20,official,168.28,National Bank of Ethiopia,2026-05-20T13:00:00Z
+KES,2026-05-20,official,129.19,Central Bank of Kenya,2026-05-20T13:00:00Z
+RWF,2026-05-20,official,1479.59,National Bank of Rwanda,2026-05-20T14:00:00Z
+SSP,2026-05-20,official,5755.5,Bank of South Sudan,2026-05-20T14:00:00Z
+SSP,2026-05-20,parallel,8049.3,Market survey,2026-05-20T16:00:00Z
+XAF,2026-05-20,official,527.13,BEAC,2026-05-20T15:00:00Z
+ETB,2026-05-21,official,169.27,National Bank of Ethiopia,2026-05-21T13:00:00Z
+KES,2026-05-21,official,129.02,Central Bank of Kenya,2026-05-21T13:00:00Z
+RWF,2026-05-21,official,1476.71,National Bank of Rwanda,2026-05-21T14:00:00Z
+SSP,2026-05-21,official,5818.1,Bank of South Sudan,2026-05-21T14:00:00Z
+SSP,2026-05-21,parallel,7923.5,Market survey,2026-05-21T16:00:00Z
+XAF,2026-05-21,official,525.78,BEAC,2026-05-21T15:00:00Z
+ETB,2026-05-22,official,169.03,National Bank of Ethiopia,2026-05-22T13:00:00Z
+KES,2026-05-22,official,128.84,Central Bank of Kenya,2026-05-22T13:00:00Z
+RWF,2026-05-22,official,1476.85,National Bank of Rwanda,2026-05-22T14:00:00Z
+SSP,2026-05-22,official,5827.9,Bank of South Sudan,2026-05-22T14:00:00Z
+SSP,2026-05-22,parallel,7971.4,Market survey,2026-05-22T16:00:00Z
+XAF,2026-05-22,official,525.41,BEAC,2026-05-22T15:00:00Z
+ETB,2026-05-25,official,169.44,National Bank of Ethiopia,2026-05-25T13:00:00Z
+KES,2026-05-25,official,129.08,Central Bank of Kenya,2026-05-25T13:00:00Z
+RWF,2026-05-25,official,1471.87,National Bank of Rwanda,2026-05-25T14:00:00Z
+SSP,2026-05-25,official,5821.5,Bank of South Sudan,2026-05-25T14:00:00Z
+SSP,2026-05-25,parallel,8069.0,Market survey,2026-05-25T16:00:00Z
+XAF,2026-05-25,official,523.04,BEAC,2026-05-25T15:00:00Z
+ETB,2026-05-26,official,170.03,National Bank of Ethiopia,2026-05-26T13:00:00Z
+KES,2026-05-26,official,129.32,Central Bank of Kenya,2026-05-26T13:00:00Z
+RWF,2026-05-26,official,1471.85,National Bank of Rwanda,2026-05-26T14:00:00Z
+SSP,2026-05-26,official,5820.5,Bank of South Sudan,2026-05-26T14:00:00Z
+SSP,2026-05-26,parallel,8119.5,Market survey,2026-05-26T16:00:00Z
+XAF,2026-05-26,official,524.42,BEAC,2026-05-26T15:00:00Z
+ETB,2026-05-27,official,170.44,National Bank of Ethiopia,2026-05-27T13:00:00Z
+KES,2026-05-27,official,129.7,Central Bank of Kenya,2026-05-27T13:00:00Z
+RWF,2026-05-27,official,1471.64,National Bank of Rwanda,2026-05-27T14:00:00Z
+SSP,2026-05-27,official,5811.7,Bank of South Sudan,2026-05-27T14:00:00Z
+SSP,2026-05-27,parallel,8086.9,Market survey,2026-05-27T16:00:00Z
+XAF,2026-05-27,official,526.55,BEAC,2026-05-27T15:00:00Z
+ETB,2026-05-28,official,170.4,National Bank of Ethiopia,2026-05-28T13:00:00Z
+KES,2026-05-28,official,129.91,Central Bank of Kenya,2026-05-28T13:00:00Z
+RWF,2026-05-28,official,1469.15,National Bank of Rwanda,2026-05-28T14:00:00Z
+SSP,2026-05-28,official,5773.6,Bank of South Sudan,2026-05-28T14:00:00Z
+SSP,2026-05-28,parallel,7995.3,Market survey,2026-05-28T16:00:00Z
+XAF,2026-05-28,official,524.73,BEAC,2026-05-28T15:00:00Z
+ETB,2026-05-29,official,169.94,National Bank of Ethiopia,2026-05-29T13:00:00Z
+KES,2026-05-29,official,130.37,Central Bank of Kenya,2026-05-29T13:00:00Z
+RWF,2026-05-29,official,1469.22,National Bank of Rwanda,2026-05-29T14:00:00Z
+SSP,2026-05-29,official,5749.9,Bank of South Sudan,2026-05-29T14:00:00Z
+SSP,2026-05-29,parallel,7880.6,Market survey,2026-05-29T16:00:00Z
+XAF,2026-05-29,official,524.59,BEAC,2026-05-29T15:00:00Z
+ETB,2026-06-01,official,168.52,National Bank of Ethiopia,2026-06-01T13:00:00Z
+KES,2026-06-01,official,130.56,Central Bank of Kenya,2026-06-01T13:00:00Z
+RWF,2026-06-01,official,1468.5,National Bank of Rwanda,2026-06-01T14:00:00Z
+SSP,2026-06-01,official,5820.7,Bank of South Sudan,2026-06-01T14:00:00Z
+SSP,2026-06-01,parallel,8226.2,Market survey,2026-06-01T16:00:00Z
+XAF,2026-06-01,official,525.6,BEAC,2026-06-01T15:00:00Z
+ETB,2026-06-02,official,168.67,National Bank of Ethiopia,2026-06-02T13:00:00Z
+KES,2026-06-02,official,130.67,Central Bank of Kenya,2026-06-02T13:00:00Z
+RWF,2026-06-02,official,1469.58,National Bank of Rwanda,2026-06-02T14:00:00Z
+SSP,2026-06-02,official,5905.7,Bank of South Sudan,2026-06-02T14:00:00Z
+SSP,2026-06-02,parallel,8156.8,Market survey,2026-06-02T16:00:00Z
+XAF,2026-06-02,official,525.83,BEAC,2026-06-02T15:00:00Z
+ETB,2026-06-03,official,170.25,National Bank of Ethiopia,2026-06-03T13:00:00Z
+KES,2026-06-03,official,131.08,Central Bank of Kenya,2026-06-03T13:00:00Z
+RWF,2026-06-03,official,1468.9,National Bank of Rwanda,2026-06-03T14:00:00Z
+SSP,2026-06-03,official,5893.2,Bank of South Sudan,2026-06-03T14:00:00Z
+SSP,2026-06-03,parallel,8321.7,Market survey,2026-06-03T16:00:00Z
+XAF,2026-06-03,official,524.81,BEAC,2026-06-03T15:00:00Z
+ETB,2026-06-04,official,171.15,National Bank of Ethiopia,2026-06-04T13:00:00Z
+KES,2026-06-04,official,131.09,Central Bank of Kenya,2026-06-04T13:00:00Z
+RWF,2026-06-04,official,1466.91,National Bank of Rwanda,2026-06-04T14:00:00Z
+SSP,2026-06-04,official,5924.8,Bank of South Sudan,2026-06-04T14:00:00Z
+SSP,2026-06-04,parallel,8193.7,Market survey,2026-06-04T16:00:00Z
+XAF,2026-06-04,official,521.45,BEAC,2026-06-04T15:00:00Z
+ETB,2026-06-05,official,171.05,National Bank of Ethiopia,2026-06-05T13:00:00Z
+KES,2026-06-05,official,130.93,Central Bank of Kenya,2026-06-05T13:00:00Z
+RWF,2026-06-05,official,1467.66,National Bank of Rwanda,2026-06-05T14:00:00Z
+SSP,2026-06-05,official,6004.8,Bank of South Sudan,2026-06-05T14:00:00Z
+SSP,2026-06-05,parallel,8521.2,Market survey,2026-06-05T16:00:00Z
+XAF,2026-06-05,official,519.37,BEAC,2026-06-05T15:00:00Z
+ETB,2026-06-08,official,172.3,National Bank of Ethiopia,2026-06-08T13:00:00Z
+KES,2026-06-08,official,130.72,Central Bank of Kenya,2026-06-08T13:00:00Z
+RWF,2026-06-08,official,1467.92,National Bank of Rwanda,2026-06-08T14:00:00Z
+SSP,2026-06-08,official,6091.3,Bank of South Sudan,2026-06-08T14:00:00Z
+SSP,2026-06-08,parallel,8465.2,Market survey,2026-06-08T16:00:00Z
+XAF,2026-06-08,official,522.78,BEAC,2026-06-08T15:00:00Z
+ETB,2026-06-09,official,172.08,National Bank of Ethiopia,2026-06-09T13:00:00Z
+KES,2026-06-09,official,130.75,Central Bank of Kenya,2026-06-09T13:00:00Z
+RWF,2026-06-09,official,1467.64,National Bank of Rwanda,2026-06-09T14:00:00Z
+SSP,2026-06-09,official,6038.0,Bank of South Sudan,2026-06-09T14:00:00Z
+SSP,2026-06-09,parallel,8317.4,Market survey,2026-06-09T16:00:00Z
+XAF,2026-06-09,official,521.61,BEAC,2026-06-09T15:00:00Z
+ETB,2026-06-10,official,172.47,National Bank of Ethiopia,2026-06-10T13:00:00Z
+KES,2026-06-10,official,130.78,Central Bank of Kenya,2026-06-10T13:00:00Z
+RWF,2026-06-10,official,1464.95,National Bank of Rwanda,2026-06-10T14:00:00Z
+SSP,2026-06-10,official,6057.3,Bank of South Sudan,2026-06-10T14:00:00Z
+SSP,2026-06-10,parallel,8543.3,Market survey,2026-06-10T16:00:00Z
+XAF,2026-06-10,official,523.06,BEAC,2026-06-10T15:00:00Z
+ETB,2026-06-11,official,172.57,National Bank of Ethiopia,2026-06-11T13:00:00Z
+KES,2026-06-11,official,130.75,Central Bank of Kenya,2026-06-11T13:00:00Z
+RWF,2026-06-11,official,1467.05,National Bank of Rwanda,2026-06-11T14:00:00Z
+SSP,2026-06-11,official,6009.8,Bank of South Sudan,2026-06-11T14:00:00Z
+SSP,2026-06-11,parallel,8505.2,Market survey,2026-06-11T16:00:00Z
+XAF,2026-06-11,official,523.11,BEAC,2026-06-11T15:00:00Z
+ETB,2026-06-12,official,173.53,National Bank of Ethiopia,2026-06-12T13:00:00Z
+KES,2026-06-12,official,130.75,Central Bank of Kenya,2026-06-12T13:00:00Z
+RWF,2026-06-12,official,1467.13,National Bank of Rwanda,2026-06-12T14:00:00Z
+SSP,2026-06-12,official,6047.4,Bank of South Sudan,2026-06-12T14:00:00Z
+SSP,2026-06-12,parallel,8490.3,Market survey,2026-06-12T16:00:00Z
+XAF,2026-06-12,official,523.92,BEAC,2026-06-12T15:00:00Z
+ETB,2026-06-15,official,174.56,National Bank of Ethiopia,2026-06-15T13:00:00Z
+KES,2026-06-15,official,131.07,Central Bank of Kenya,2026-06-15T13:00:00Z
+RWF,2026-06-15,official,1462.38,National Bank of Rwanda,2026-06-15T14:00:00Z
+SSP,2026-06-15,official,5860.6,Bank of South Sudan,2026-06-15T14:00:00Z
+SSP,2026-06-15,parallel,8080.3,Market survey,2026-06-15T16:00:00Z
+XAF,2026-06-15,official,522.96,BEAC,2026-06-15T15:00:00Z
+ETB,2026-06-16,official,173.31,National Bank of Ethiopia,2026-06-16T13:00:00Z
+KES,2026-06-16,official,131.12,Central Bank of Kenya,2026-06-16T13:00:00Z
+RWF,2026-06-16,official,1462.76,National Bank of Rwanda,2026-06-16T14:00:00Z
+SSP,2026-06-16,official,5852.3,Bank of South Sudan,2026-06-16T14:00:00Z
+SSP,2026-06-16,parallel,8084.6,Market survey,2026-06-16T16:00:00Z
+XAF,2026-06-16,official,522.96,BEAC,2026-06-16T15:00:00Z
+ETB,2026-06-17,official,173.66,National Bank of Ethiopia,2026-06-17T13:00:00Z
+KES,2026-06-17,official,131.07,Central Bank of Kenya,2026-06-17T13:00:00Z
+RWF,2026-06-17,official,1466.15,National Bank of Rwanda,2026-06-17T14:00:00Z
+SSP,2026-06-17,official,5816.3,Bank of South Sudan,2026-06-17T14:00:00Z
+SSP,2026-06-17,parallel,8108.7,Market survey,2026-06-17T16:00:00Z
+XAF,2026-06-17,official,523.52,BEAC,2026-06-17T15:00:00Z
+ETB,2026-06-18,official,174.22,National Bank of Ethiopia,2026-06-18T13:00:00Z
+KES,2026-06-18,official,130.94,Central Bank of Kenya,2026-06-18T13:00:00Z
+RWF,2026-06-18,official,1465.89,National Bank of Rwanda,2026-06-18T14:00:00Z
+SSP,2026-06-18,official,5825.8,Bank of South Sudan,2026-06-18T14:00:00Z
+SSP,2026-06-18,parallel,8284.1,Market survey,2026-06-18T16:00:00Z
+XAF,2026-06-18,official,523.93,BEAC,2026-06-18T15:00:00Z
+ETB,2026-06-19,official,173.21,National Bank of Ethiopia,2026-06-19T13:00:00Z
+KES,2026-06-19,official,130.79,Central Bank of Kenya,2026-06-19T13:00:00Z
+RWF,2026-06-19,official,1465.07,National Bank of Rwanda,2026-06-19T14:00:00Z
+SSP,2026-06-19,official,5780.8,Bank of South Sudan,2026-06-19T14:00:00Z
+SSP,2026-06-19,parallel,8033.6,Market survey,2026-06-19T16:00:00Z
+XAF,2026-06-19,official,522.82,BEAC,2026-06-19T15:00:00Z
+ETB,2026-06-22,official,174.0,National Bank of Ethiopia,2026-06-22T13:00:00Z
+KES,2026-06-22,official,131.14,Central Bank of Kenya,2026-06-22T13:00:00Z
+RWF,2026-06-22,official,1466.4,National Bank of Rwanda,2026-06-22T14:00:00Z
+SSP,2026-06-22,official,5615.7,Bank of South Sudan,2026-06-22T14:00:00Z
+SSP,2026-06-22,parallel,7713.9,Market survey,2026-06-22T16:00:00Z
+XAF,2026-06-22,official,525.5,BEAC,2026-06-22T15:00:00Z
+ETB,2026-06-23,official,174.0,National Bank of Ethiopia,2026-06-23T13:00:00Z
+KES,2026-06-23,official,131.04,Central Bank of Kenya,2026-06-23T13:00:00Z
+RWF,2026-06-23,official,1468.86,National Bank of Rwanda,2026-06-23T14:00:00Z
+SSP,2026-06-23,official,5638.2,Bank of South Sudan,2026-06-23T14:00:00Z
+SSP,2026-06-23,parallel,7896.2,Market survey,2026-06-23T16:00:00Z
+XAF,2026-06-23,official,527.5,BEAC,2026-06-23T15:00:00Z
+ETB,2026-06-24,official,174.45,National Bank of Ethiopia,2026-06-24T13:00:00Z
+KES,2026-06-24,official,130.75,Central Bank of Kenya,2026-06-24T13:00:00Z
+RWF,2026-06-24,official,1466.75,National Bank of Rwanda,2026-06-24T14:00:00Z
+SSP,2026-06-24,official,5665.5,Bank of South Sudan,2026-06-24T14:00:00Z
+SSP,2026-06-24,parallel,7728.3,Market survey,2026-06-24T16:00:00Z
+XAF,2026-06-24,official,"526,82",BEAC,2026-06-24T15:00:00Z
+ETB,2026-06-25,official,174.35,National Bank of Ethiopia,2026-06-25T13:00:00Z
+KES,2026-06-25,official,130.89,Central Bank of Kenya,2026-06-25T13:00:00Z
+RWF,2026-06-25,official,1465.14,National Bank of Rwanda,2026-06-25T14:00:00Z
+SSP,2026-06-25,official,5647.0,Bank of South Sudan,2026-06-25T14:00:00Z
+SSP,2026-06-25,parallel,7860.0,Market survey,2026-06-25T16:00:00Z
+XAF,2026-06-25,official,524.36,BEAC,2026-06-25T15:00:00Z
+ETB,2026-06-26,official,174.49,National Bank of Ethiopia,2026-06-26T13:00:00Z
+KES,2026-06-26,official,131.04,Central Bank of Kenya,2026-06-26T13:00:00Z
+RWF,2026-06-26,official,1463.24,National Bank of Rwanda,2026-06-26T14:00:00Z
+SSP,2026-06-26,official,5633.5,Bank of South Sudan,2026-06-26T14:00:00Z
+SSP,2026-06-26,parallel,7767.7,Market survey,2026-06-26T16:00:00Z
+XAF,2026-06-26,official,526.13,BEAC,2026-06-26T15:00:00Z
+ETB,2026-06-29,official,176.57,National Bank of Ethiopia,2026-06-29T13:00:00Z
+KES,2026-06-29,official,131.03,Central Bank of Kenya,2026-06-29T13:00:00Z
+RWF,2026-06-29,official,1465.34,National Bank of Rwanda,2026-06-29T14:00:00Z
+SSP,2026-06-29,official,5660.5,Bank of South Sudan,2026-06-29T14:00:00Z
+SSP,2026-06-29,parallel,7852.7,Market survey,2026-06-29T16:00:00Z
+XAF,2026-06-29,official,524.97,BEAC,2026-06-29T15:00:00Z
+ETB,2026-06-30,official,177.26,National Bank of Ethiopia,2026-06-30T13:00:00Z
+KES,2026-06-30,official,130.78,Central Bank of Kenya,2026-06-30T13:00:00Z
+RWF,2026-06-30,official,1466.14,National Bank of Rwanda,2026-06-30T14:00:00Z
+SSP,2026-06-30,official,5569.7,Bank of South Sudan,2026-06-30T14:00:00Z
+SSP,2026-06-30,parallel,7851.6,Market survey,2026-06-30T16:00:00Z
+XAF,2026-06-30,official,525.32,BEAC,2026-06-30T15:00:00Z
+ETB,2026-07-01,official,178.42,National Bank of Ethiopia,2026-07-01T13:00:00Z
+KES,2026-07-01,official,130.5,Central Bank of Kenya,2026-07-01T13:00:00Z
+RWF,2026-07-01,official,1465.99,National Bank of Rwanda,2026-07-01T14:00:00Z
+SSP,2026-07-01,official,5578.8,Bank of South Sudan,2026-07-01T14:00:00Z
+SSP,2026-07-01,parallel,7869.0,Market survey,2026-07-01T16:00:00Z
+XAF,2026-07-01,official,523.79,BEAC,2026-07-01T15:00:00Z
+ETB,2026-07-02,official,179.1,National Bank of Ethiopia,2026-07-02T13:00:00Z
+KSH,2026-07-02,official,130.27,Central Bank of Kenya,2026-07-02T13:00:00Z
+RWF,2026-07-02,official,1468.88,National Bank of Rwanda,2026-07-02T14:00:00Z
+SSP,2026-07-02,official,5595.8,Bank of South Sudan,2026-07-02T14:00:00Z
+SSP,2026-07-02,parallel,7820.9,Market survey,2026-07-02T16:00:00Z
+XAF,2026-07-02,official,522.91,BEAC,2026-07-02T15:00:00Z
+ETB,2026-07-03,official,178.77,National Bank of Ethiopia,2026-07-03T13:00:00Z
+KES,2026-07-03,official,130.07,Central Bank of Kenya,2026-07-03T13:00:00Z
+RWF,2026-07-03,official,1469.78,National Bank of Rwanda,2026-07-03T14:00:00Z
+SSP,2026-07-03,official,5652.3,Bank of South Sudan,2026-07-03T14:00:00Z
+SSP,2026-07-03,parallel,7728.1,Market survey,2026-07-03T16:00:00Z
+XAF,2026-07-03,official,524.25,BEAC,2026-07-03T15:00:00Z
+ETB,2026-07-06,official,178.5,National Bank of Ethiopia,2026-07-06T13:00:00Z
+KES,2026-07-06,official,130.15,Central Bank of Kenya,2026-07-06T13:00:00Z
+RWF,2026-07-06,official,1471.25,National Bank of Rwanda,2026-07-06T14:00:00Z
+SSP,2026-07-06,official,5706.8,Bank of South Sudan,2026-07-06T14:00:00Z
+SSP,2026-07-06,parallel,7881.1,Market survey,2026-07-06T16:00:00Z
+XAF,2026-07-06,official,524.84,BEAC,2026-07-06T15:00:00Z
+ETB,2026-07-07,official,177.74,National Bank of Ethiopia,2026-07-07T13:00:00Z
+KES,2026-07-07,official,130.23,Central Bank of Kenya,2026-07-07T13:00:00Z
+RWF,2026-07-07,official,1469.26,National Bank of Rwanda,2026-07-07T14:00:00Z
+SSP,2026-07-07,official,5671.8,Bank of South Sudan,2026-07-07T14:00:00Z
+SSP,2026-07-07,parallel,7835.9,Market survey,2026-07-07T16:00:00Z
+XAF,2026-07-07,official,523.89,BEAC,2026-07-07T15:00:00Z
+ETB,2026-07-08,official,177.61,National Bank of Ethiopia,2026-07-08T13:00:00Z
+KES,2026-07-08,official,130.45,Central Bank of Kenya,2026-07-08T13:00:00Z
+RWF,2026-07-08,official,1472.43,National Bank of Rwanda,2026-07-08T14:00:00Z
+SSP,2026-07-08,official,5669.7,Bank of South Sudan,2026-07-08T14:00:00Z
+SSP,2026-07-08,parallel,8016.3,Market survey,2026-07-08T16:00:00Z
+XAF,2026-07-08,official,524.34,BEAC,2026-07-08T15:00:00Z
+ETB,2026-07-09,official,176.97,National Bank of Ethiopia,2026-07-09T13:00:00Z
+KES,2026-07-09,official,130.5,Central Bank of Kenya,2026-07-09T13:00:00Z
+RWF,2026-07-09,official,1474.07,National Bank of Rwanda,2026-07-09T14:00:00Z
+SSP,2026-07-09,official,5611.6,Bank of South Sudan,2026-07-09T14:00:00Z
+SSP,2026-07-09,parallel,7719.2,Market survey,2026-07-09T16:00:00Z
+XAF,2026-07-09,official,524.17,BEAC,2026-07-09T15:00:00Z
+ETB,2026-07-10,official,176.28,National Bank of Ethiopia,2026-07-10T13:00:00Z
+KES,2026-07-10,official,130.66,Central Bank of Kenya,2026-07-10T13:00:00Z
+RWF,2026-07-10,official,1475.42,National Bank of Rwanda,2026-07-10T14:00:00Z
+SSP,2026-07-10,official,5548.5,Bank of South Sudan,2026-07-10T14:00:00Z
+SSP,2026-07-10,parallel,7804.3,Market survey,2026-07-10T16:00:00Z
+XAF,2026-07-10,official,524.88,BEAC,2026-07-10T15:00:00Z
+ETB,2026-07-13,official,178.15,National Bank of Ethiopia,2026-07-13T13:00:00Z
+KES,2026-07-13,official,130.37,Central Bank of Kenya,2026-07-13T13:00:00Z
+RWF,2026-07-13,official,1476.29,National Bank of Rwanda,2026-07-13T14:00:00Z
+SSP,2026-07-13,official,5531.7,Bank of South Sudan,2026-07-13T14:00:00Z
+SSP,2026-07-13,parallel,7660.5,Market survey,2026-07-13T16:00:00Z
+XAF,2026-07-13,official,523.87,BEAC,2026-07-13T15:00:00Z
+ETB,2026-07-14,official,178.14,National Bank of Ethiopia,2026-07-14T13:00:00Z
+KES,2026-07-14,official,130.2,Central Bank of Kenya,2026-07-14T13:00:00Z
+RWF,2026-07-14,official,1477.37,National Bank of Rwanda,2026-07-14T14:00:00Z
+SSP,2026-07-14,official,5533.4,Bank of South Sudan,2026-07-14T14:00:00Z
+SSP,2026-07-14,parallel,7696.0,Market survey,2026-07-14T16:00:00Z
+XAF,2026-07-14,official,524.81,BEAC,2026-07-14T15:00:00Z
+ETB,2026-07-15,official,179.64,National Bank of Ethiopia,2026-07-15T13:00:00Z
+KES,2026-07-15,official,130.27,Central Bank of Kenya,2026-07-15T13:00:00Z
+RWF,2026-07-15,official,1480.29,National Bank of Rwanda,2026-07-15T14:00:00Z
+SSP,2026-07-15,official,5507.5,Bank of South Sudan,2026-07-15T14:00:00Z
+SSP,2026-07-15,parallel,7529.8,Market survey,2026-07-15T16:00:00Z
+XAF,2026-07-15,official,524.7,BEAC,2026-07-15T15:00:00Z
+ETB,2026-07-16,official,179.43,National Bank of Ethiopia,2026-07-16T13:00:00Z
+KES,2026-07-16,official,130.49,Central Bank of Kenya,2026-07-16T13:00:00Z
+RWF,2026-07-16,official,1483.67,National Bank of Rwanda,2026-07-16T14:00:00Z
+SSP,2026-07-16,official,5573.1,Bank of South Sudan,2026-07-16T14:00:00Z
+SSP,2026-07-16,parallel,7680.9,Market survey,2026-07-16T16:00:00Z
+XAF,2026-07-16,official,525.28,BEAC,2026-07-16T15:00:00Z
+ETB,2026-07-17,official,179.88,National Bank of Ethiopia,2026-07-17T13:00:00Z
+KES,2026-07-17,official,130.8,Central Bank of Kenya,2026-07-17T13:00:00Z
+RWF,2026-07-17,official,1484.23,National Bank of Rwanda,2026-07-17T14:00:00Z
+SSP,2026-07-17,official,5538.0,Bank of South Sudan,2026-07-17T14:00:00Z
+SSP,2026-07-17,parallel,7700.3,Market survey,2026-07-17T16:00:00Z
+XAF,2026-07-17,official,524.25,BEAC,2026-07-17T15:00:00Z
+ETB,2026-07-20,official,180.33,National Bank of Ethiopia,2026-07-20T13:00:00Z
+KES,2026-07-20,official,130.93,Central Bank of Kenya,2026-07-20T13:00:00Z
+RWF,2026-07-20,official,1478.43,National Bank of Rwanda,2026-07-20T14:00:00Z
+SSP,2026-07-20,official,5461.2,Bank of South Sudan,2026-07-20T14:00:00Z
+SSP,2026-07-20,parallel,7620.0,Market survey,2026-07-20T16:00:00Z
+XAF,2026-07-20,official,526.27,BEAC,2026-07-20T15:00:00Z
+ETB,2026-07-21,official,178.95,National Bank of Ethiopia,2026-07-21T13:00:00Z
+KES,2026-07-21,official,131.09,Central Bank of Kenya,2026-07-21T13:00:00Z
+RWF,2026-07-21,official,1479.88,National Bank of Rwanda,2026-07-21T14:00:00Z
+SSP,2026-07-21,official,5469.7,Bank of South Sudan,2026-07-21T14:00:00Z
+SSP,2026-07-21,parallel,7637.0,Market survey,2026-07-21T16:00:00Z
+XAF,2026-07-21,official,526.54,BEAC,2026-07-21T15:00:00Z
+ETB,2026-07-22,official,179.09,National Bank of Ethiopia,2026-07-22T13:00:00Z
+KES,2026-07-22,official,131.03,Central Bank of Kenya,2026-07-22T13:00:00Z
+RWF,2026-07-22,official,1480.25,National Bank of Rwanda,2026-07-22T14:00:00Z
+SSP,2026-07-22,official,5471.6,Bank of South Sudan,2026-07-22T14:00:00Z
+SSP,2026-07-22,parallel,7483.2,Market survey,2026-07-22T16:00:00Z
+XAF,2026-07-22,official,526.28,BEAC,2026-07-22T15:00:00Z
+ETB,2026-07-23,official,178.19,National Bank of Ethiopia,2026-07-23T13:00:00Z
+KES,2026-07-23,official,131.13,Central Bank of Kenya,2026-07-23T13:00:00Z
+RWF,2026-07-23,official,1477.11,National Bank of Rwanda,2026-07-23T14:00:00Z
+SSP,2026-07-23,official,5451.9,Bank of South Sudan,2026-07-23T14:00:00Z
+SSP,2026-07-23,parallel,7514.3,Market survey,2026-07-23T16:00:00Z
+XAF,2026-07-23,official,526.09,BEAC,2026-07-23T15:00:00Z
+ETB,2026-07-24,official,,National Bank of Ethiopia,2026-07-24T13:00:00Z
+KES,2026-07-24,official,131.19,Central Bank of Kenya,2026-07-24T13:00:00Z
+RWF,2026-07-24,official,1475.94,National Bank of Rwanda,2026-07-24T14:00:00Z
+SSP,2026-07-24,official,5449.6,Bank of South Sudan,2026-07-24T14:00:00Z
+SSP,2026-07-24,parallel,7550.5,Market survey,2026-07-24T16:00:00Z
+XAF,2026-07-24,official,527.2,BEAC,2026-07-24T15:00:00Z
+ETB,2026-07-27,official,178.17,National Bank of Ethiopia,2026-07-27T13:00:00Z
+KES,2026-07-27,official,131.48,Central Bank of Kenya,2026-07-27T13:00:00Z
+RWF,2026-07-27,official,1478.75,National Bank of Rwanda,2026-07-27T14:00:00Z
+SSP,2026-07-27,official,5409.0,Bank of South Sudan,2026-07-27T14:00:00Z
+SSP,2026-07-27,parallel,7450.5,Market survey,2026-07-27T16:00:00Z
+XAF,2026-07-27,official,525.57,BEAC,2026-07-27T15:00:00Z
+ETB,2026-07-28,official,178.42,National Bank of Ethiopia,2026-07-28T13:00:00Z
+KES,2026-07-28,official,131.39,Central Bank of Kenya,2026-07-28T13:00:00Z
+RWF,2026-07-28,official,1478.73,National Bank of Rwanda,2026-07-28T14:00:00Z
+SSP,2026-07-28,official,5430.8,Bank of South Sudan,2026-07-28T14:00:00Z
+SSP,2026-07-28,parallel,7596.0,Market survey,2026-07-28T16:00:00Z
+XAF,2026-07-28,official,528.03,BEAC,2026-07-28T15:00:00Z
+ETB,2026-07-29,official,179.17,National Bank of Ethiopia,2026-07-29T13:00:00Z
+KES,2026-07-29,official,131.23,Central Bank of Kenya,2026-07-29T13:00:00Z
+RWF,2026-07-29,official,1479.44,National Bank of Rwanda,2026-07-29T14:00:00Z
+SSP,2026-07-29,official,5382.6,Bank of South Sudan,2026-07-29T14:00:00Z
+SSP,2026-07-29,parallel,7522.7,Market survey,2026-07-29T16:00:00Z
+XAF,2026-07-29,official,529.07,BEAC,2026-07-29T15:00:00Z
+ETB,2026-07-30,official,178.62,National Bank of Ethiopia,2026-07-30T13:00:00Z
+KES,2026-07-30,official,131.23,Central Bank of Kenya,2026-07-30T13:00:00Z
+RWF,2026-07-30,official,1477.63,National Bank of Rwanda,2026-07-30T14:00:00Z
+SSP,2026-07-30,official,5420.9,Bank of South Sudan,2026-07-30T14:00:00Z
+SSP,2026-07-30,parallel,7522.5,Market survey,2026-07-30T16:00:00Z
+XAF,2026-07-30,official,530.41,BEAC,2026-07-30T15:00:00Z

@@ -1,0 +1,86 @@
+# Classification of every source column.
+# Classes: public, internal, personal, sensitive, restricted, excluded.
+# excluded: must never be loaded into any layer, including raw.
+version: 3
+files:
+  "ims_clients.csv":
+    ims_client_id: internal
+    first_name: personal
+    middle_name: personal
+    last_name: personal
+    sex: personal
+    date_of_birth: personal
+    phone_1: personal
+    phone_2: personal
+    country: internal
+    location: sensitive
+    household_id: internal
+    relationship_to_head: personal
+    id_document_type: sensitive
+    id_document_number: sensitive
+    registration_date: internal
+    business_sector: internal
+    registered_by: internal
+    source_form: internal
+    updated_at: internal
+    notes: restricted
+  "cbs_borrowers.csv":
+    borrower_id: internal
+    full_name: personal
+    gender: personal
+    date_of_birth: personal
+    mobile_no: personal
+    id_type: sensitive
+    id_number: sensitive
+    country: internal
+    branch: sensitive
+    office_id: internal
+    fingerprint_template_ref: excluded
+    created_on: internal
+  "cbs_loans.csv":
+    loan_id: internal
+    borrower_id: internal
+    country: internal
+    branch: sensitive
+    product: internal
+    currency: internal
+    principal: internal
+    disbursed_at: internal
+    term_months: internal
+    interest_rate_pct: internal
+    status: internal
+    cbs_fx_rate: internal
+    principal_usd_cbs: internal
+    loan_officer: internal
+  "cbs_repayments_*.csv":
+    txn_id: internal
+    loan_id: internal
+    paid_at: internal
+    amount: internal
+    currency: internal
+    channel: internal
+    reversal_of: internal
+  "fx_rates.csv":
+    currency: public
+    rate_date: public
+    rate_type: public
+    units_per_usd: public
+    source: public
+    published_at: public
+  "cbs_control_totals.csv":
+    country: internal
+    month: internal
+    currency: internal
+    loans_disbursed_count: internal
+    loans_disbursed_amount: internal
+    repayments_count: internal
+    repayments_amount: internal
+  "investment_screening.csv":
+    applicant_name: personal
+    phone: personal
+    country: internal
+    location: sensitive
+    screened_on: internal
+    decision: sensitive
+    decline_reason: sensitive
+    screened_by: internal
