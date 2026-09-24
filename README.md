@@ -77,6 +77,43 @@ Everything is in `source/`. Every candidate works with the same data set.
 - the steps to follow when reconciliation fails
 - the measured conditions under which you would add a component this exercise does not need, such as a columnar store or a streaming ingestion path
 
+## Data quality checkpoints (all candidates)
+
+We do not tell you what is wrong with the data. Finding it is part of the exercise.
+
+Your pipeline must check the data at four points. Each check must leave a record that a reviewer can read after a run, such as a table or a log file.
+
+**DQ1. On arrival**, before a file is loaded:
+
+- Confirm the file has the columns expected for that source.
+- Confirm every column is classified in `classification.yaml`.
+- Record the row count.
+- Stop the load of that file if either confirmation fails.
+
+**DQ2. Per record**, in staging:
+
+- Test every record against rules you define, covering at least types, formats, required fields, allowed values and duplicates.
+- Quarantine a record that fails, with the reason. Never delete it.
+- Show that rows in equal rows passed plus rows quarantined, for every source.
+
+**DQ3. After identity resolution** (A2):
+
+- Report matched, unmatched and review queue counts.
+- Flag any enterprise client identifier whose linked records disagree on core attributes.
+
+**DQ4. Before publication**, before B1 and B2 are refreshed:
+
+- Publish only when reconciliation (A3) and your tests (B3) pass.
+- When they fail, keep the last good outputs and record why the refresh stopped.
+
+In `DATA_QUALITY.md`, list every issue you found, one row per issue, with:
+
+- what the issue is
+- the source file and column
+- how many records it affects
+- how you handled it: corrected, quarantined, flagged or accepted
+- who should fix it at the source
+
 ## Inbox (all candidates)
 
 Answer in `DECISIONS.md`, in under 200 words:
@@ -87,6 +124,7 @@ Answer in `DECISIONS.md`, in under 200 words:
 
 - Your code, with a README section giving the one command that runs everything from a clean clone.
 - `DECISIONS.md`: your assumptions, matching rules, tolerances, what you chose not to do and why, and what you would do next. Two pages at most. English or French.
+- `DATA_QUALITY.md`: the issue list described under Data quality checkpoints, and the output of your last DQ1 to DQ4 run.
 - `AI_USE.md`: which AI tools you used, if any, and for what.
 
 ## How to work and submit
