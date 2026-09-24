@@ -4,7 +4,15 @@
 
 Inkomoko provides finance and business development services to refugee and host-community entrepreneurs in Kenya, Rwanda, Ethiopia, South Sudan and Chad. Client data lives in systems that were never designed to agree with each other. An advisory system records the people we support. A core banking system records their loans and repayments. Neither shares a client key with the other, and the same person can appear more than once, under a different identifier, after moving between locations.
 
-Please stop at the time box. If you run out of time, write down what you would do next and how. We score that as seriously as finished work. We do not score volume, extra tooling or visual polish.
+## What to expect
+
+1. You work on this exercise in a private copy of this repository, in your own GitHub account. The steps are under How to work and submit.
+2. You submit by the deadline stated in the message that sent you here. Late submissions are not scored.
+3. Two reviewers score every submission independently and in the same way.
+4. Candidates whose submission clears review are invited to a follow-up session of about 75 minutes: a walkthrough of your submission, one live change, one debugging exercise and a design conversation.
+5. People and Culture tells every candidate the outcome.
+
+Plan for the time stated in the message that sent you here, and stop when it runs out. If you run out of time, write down what you would do next and how. We score that as seriously as finished work. We do not score volume, extra tooling or visual polish.
 
 ## Setup
 
@@ -20,7 +28,7 @@ The reference tooling is dbt Core on DuckDB. You may use another engine or langu
 
 ## The sources
 
-Everything is already in `source/`. Your data set is specific to you.
+Everything is in `source/`. Every candidate works with the same data set.
 
 | File | What it holds |
 |---|---|
@@ -81,15 +89,27 @@ Answer in `DECISIONS.md`, in under 200 words:
 - `DECISIONS.md`: your assumptions, matching rules, tolerances, what you chose not to do and why, and what you would do next. Two pages at most. English or French.
 - `AI_USE.md`: which AI tools you used, if any, and for what.
 
-## How to submit
+## How to work and submit
 
-This private repository was created for you alone. No other candidate can see it, and you cannot see theirs.
+This repository is public. Your work must not be. Do not fork this repository: a fork of a public repository is public, and other candidates could see your work.
 
-1. Accept the repository invitation from your email.
-2. Work and push to `main` as you normally would. We do not score commit history.
-3. At the deadline in your invitation your access ends, and we score the last commit on `main`. Keep the repository private and do not copy it elsewhere.
+1. In your own GitHub account, create a new **private** repository named `de-exercise-submission`. Leave it empty: no README, licence or `.gitignore`.
+2. Copy this repository into it:
 
-Before your follow-up session we will add a branch named `session-day3`. Do not merge it before the session.
+   ```
+   git clone https://github.com/AmosBunde/de-exercise-template.git de-exercise-submission
+   cd de-exercise-submission
+   git remote set-url origin https://github.com/<your-username>/de-exercise-submission.git
+   git push -u origin main
+   ```
+
+3. Work and push to `main` as you normally would. We do not score commit history.
+4. Before the deadline, open **Settings**, then **Collaborators**, in your repository and add `AmosBunde` as a collaborator.
+5. Before the deadline, send the link to your repository to People and Culture, replying to the message that sent you here.
+
+At the deadline we take a copy of your repository and score the last commit on `main` at that moment. Pushes after the deadline are not scored. Keep your repository private until the recruitment closes.
+
+If you are invited to the follow-up session, we will give you one more data file to work with during it.
 
 ## Working alone
 
@@ -103,4 +123,4 @@ The follow-up session covers a walkthrough of your submission, one live change, 
 
 ## Your data
 
-This repository and your submission are used only for this recruitment. Your work will not be used in any Inkomoko system. Repositories are deleted after the recruitment closes, in line with Inkomoko's retention policy for candidate records.
+Your submission is used only for this recruitment. Your work will not be used in any Inkomoko system. Once the recruitment closes you may delete your repository. We delete our copy in line with Inkomoko's retention policy for candidate records.
