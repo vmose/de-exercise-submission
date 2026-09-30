@@ -26,6 +26,44 @@ pip install -r requirements.txt  # dbt Core with DuckDB
 
 The reference tooling is dbt Core on DuckDB. You may use another engine or language if a reviewer can run your work from a clean clone using the steps in your README section.
 
+## How to run
+
+One command, from a clean clone (after the `pip install -r requirements.txt` above):
+
+```
+bash scripts/run_pipeline.sh
+```
+
+This runs, in order: DQ1 (validates each source file against `contracts/source_schemas.yml` and `classification.yaml`, dropping `excluded` columns and rejecting a file whose shape doesn't match) → `dbt seed` → `dbt build` (raw → staging/DQ2 → identity resolution/DQ3 → reconciliation/A3 → marts B1/B2, plus every B3 test) → DQ4 (publishes B1/B2 into the `published` schema only if A3 + B3 all pass, otherwise leaves the last good outputs in place) → refreshes the DQ log views.
+
+Exit code is DQ4's: `0` if this run published, `1` if it was blocked (this is the expected result with the data provided — see `DATA_QUALITY.md`). Either way the script itself completes and every DQ checkpoint has left a record.
+
+Everything lands in `inkomoko.duckdb` (DuckDB file, gitignored, rebuilt every run), inspectable with:
+
+```
+python -c "import duckdb; con = duckdb.connect('inkomoko.duckdb'); print(con.sql('select * from main_marts.rpt_country_month_summary').df())"
+```
+
+or the `duckdb inkomoko.duckdb` CLI. Schemas: `main_raw`, `main_staging`, `main_intermediate`, `main_marts`, `main_quality`, and `published` (only populated once a run passes DQ4).
+
+Human-readable DQ records, refreshed every run: `dq_logs/dq1_results.csv`, `dq_logs/dq4_results.csv` (also queryable as `main_quality.dq1_log` / `main_quality.dq4_log`), plus `DATA_QUALITY.md` for the narrative issue list.
+
+Repo layout:
+
+```
+contracts/source_schemas.yml   versioned, declared shape of every source (DQ1 + C1)
+scripts/dq1_preflight.py       DQ1: file-arrival gate, source/ -> validated/
+scripts/dq4_publish_gate.py    DQ4: publication gate, marts -> published
+scripts/run_pipeline.sh        the one command
+seeds/country_lookup.csv       our own reference data (country name/code normalization)
+models/raw/                    one model per source, reads only from validated/
+models/staging/                DQ2: typed, validated, quarantined per source
+models/intermediate/           A2 identity crosswalk, DQ3, A3 reconciliation
+models/marts/                  B1 fct_loans, B2 rpt_country_month_summary
+models/quality/                DQ1/DQ2/DQ4 logs and summaries as queryable tables
+tests/                         B3 singular tests (schema tests live in models/schema.yml)
+```
+
 ## The sources
 
 Everything is in `source/`. Every candidate works with the same data set.

@@ -1,0 +1,7 @@
+inkomoko_de_exercise:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "inkomoko.duckdb"
+      threads: 4

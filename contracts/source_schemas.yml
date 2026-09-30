@@ -1,0 +1,143 @@
+# Declared, versioned shape of every source file.
+#
+# This file is the contract DQ1 checks incoming files against, before anything
+# is loaded. It is reviewed like any other code change (a PR against this repo):
+# bumping a source's `version` and editing `columns` is how a schema change gets
+# accepted. git history on this file *is* the change log for source shapes.
+#
+# Fields per source:
+#   version:  bumped whenever the accepted shape changes. DQ1 checks the
+#             incoming file against `columns` for the CURRENT version only.
+#   match:    glob (relative to source/) identifying which file(s) this
+#             contract applies to.
+#   key:      natural key of the source, used for dedup on load.
+#   columns:  exact set of column names DQ1 requires (order not significant).
+#             A file with missing columns, extra/unexpected columns, or a
+#             renamed column fails DQ1 and is not loaded.
+#
+# History:
+#   cbs_repayments v1 (this file) was written against cbs_repayments_day1.csv.
+#   cbs_repayments_day2.csv arrived with `amount` renamed to `amount_paid` and
+#   a new `agent_code` column. That is a breaking, undeclared change: DQ1 must
+#   fail it (see DATA_QUALITY.md / OPERATIONS.md). Accepting it for real would
+#   mean a reviewed PR bumping this source to v2 with the new column list and,
+#   if `amount_paid` really replaces `amount`, a note here and a compatibility
+#   mapping in the staging model so historical loads under v1 still resolve.
+
+sources:
+
+  ims_clients:
+    version: 1
+    match: "ims_clients.csv"
+    key: [ims_client_id]
+    columns:
+      - ims_client_id
+      - first_name
+      - middle_name
+      - last_name
+      - sex
+      - date_of_birth
+      - phone_1
+      - phone_2
+      - country
+      - location
+      - household_id
+      - relationship_to_head
+      - id_document_type
+      - id_document_number
+      - registration_date
+      - business_sector
+      - registered_by
+      - source_form
+      - updated_at
+      - notes
+
+  cbs_borrowers:
+    version: 1
+    match: "cbs_borrowers.csv"
+    key: [borrower_id]
+    columns:
+      - borrower_id
+      - full_name
+      - gender
+      - date_of_birth
+      - mobile_no
+      - id_type
+      - id_number
+      - country
+      - branch
+      - office_id
+      - fingerprint_template_ref
+      - created_on
+
+  cbs_loans:
+    version: 1
+    match: "cbs_loans.csv"
+    key: [loan_id]
+    columns:
+      - loan_id
+      - borrower_id
+      - country
+      - branch
+      - product
+      - currency
+      - principal
+      - disbursed_at
+      - term_months
+      - interest_rate_pct
+      - status
+      - cbs_fx_rate
+      - principal_usd_cbs
+      - loan_officer
+
+  cbs_repayments:
+    version: 1
+    match: "cbs_repayments_*.csv"
+    key: [txn_id]
+    columns:
+      - txn_id
+      - loan_id
+      - paid_at
+      - amount
+      - currency
+      - channel
+      - reversal_of
+
+  fx_rates:
+    version: 1
+    match: "fx_rates.csv"
+    key: [currency, rate_date, rate_type]
+    columns:
+      - currency
+      - rate_date
+      - rate_type
+      - units_per_usd
+      - source
+      - published_at
+
+  cbs_control_totals:
+    version: 1
+    match: "cbs_control_totals.csv"
+    key: [country, month, currency]
+    columns:
+      - country
+      - month
+      - currency
+      - loans_disbursed_count
+      - loans_disbursed_amount
+      - repayments_count
+      - repayments_amount
+
+  investment_screening:
+    version: 1
+    match: "investment_screening.csv"
+    key: null   # no reliable natural key in this source; not loaded downstream (see DECISIONS.md)
+    columns:
+      - applicant_name
+      - phone
+      - country
+      - location
+      - screened_on
+      - decision
+      - decline_reason
+      - screened_by

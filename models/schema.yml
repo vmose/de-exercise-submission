@@ -1,0 +1,63 @@
+version: 2
+
+models:
+  - name: stg_ims_clients
+    columns:
+      - name: ims_client_id
+        tests: [unique, not_null]
+
+  - name: stg_cbs_borrowers
+    columns:
+      - name: borrower_id
+        tests: [unique, not_null]
+
+  - name: stg_cbs_loans
+    columns:
+      - name: loan_id
+        tests: [unique, not_null]
+      - name: borrower_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_cbs_borrowers')
+              field: borrower_id
+      - name: currency
+        tests:
+          - accepted_values:
+              values: ['ETB', 'KES', 'RWF', 'SSP', 'XAF']
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['active', 'closed']
+
+  - name: stg_cbs_repayments
+    columns:
+      - name: txn_id
+        tests: [unique, not_null]
+      - name: loan_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_cbs_loans')
+              field: loan_id
+
+  - name: int_client_crosswalk
+    columns:
+      - name: enterprise_client_id
+        tests: [not_null]
+
+  - name: fct_loans
+    columns:
+      - name: loan_id
+        tests: [unique, not_null]
+      - name: enterprise_client_id
+        tests: [not_null]
+      - name: principal_usd
+        tests: [not_null]
+      - name: fx_rate_used
+        tests: [not_null]
+
+  - name: rpt_country_month_summary
+    columns:
+      - name: country
+        tests: [not_null]
